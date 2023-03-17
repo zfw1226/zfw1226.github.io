@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /about/
 title: ""
 excerpt: ""
 author_profile: false
@@ -19,8 +19,8 @@ redirect_from:
 # 📝 Publications 
 
 - <div class="badge">CVPR 2023</div> [GFPose: Learning 3D Human Pose Prior with Gradient Fields](https://arxiv.org/pdf/2212.08641.pdf),
-Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang [![](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://sites.google.com/view/gfpose/) 
-
+Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang ![](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
+[
 - <div class="badge">ICLR 2023</div> [Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/pdf?id=CPIy9TWFYBG)
 Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong#**, Yizhou Wang
 [**Project**](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:MXK_kJrjxJIC'></span></strong>

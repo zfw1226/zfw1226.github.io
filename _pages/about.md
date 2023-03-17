@@ -39,6 +39,7 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizh
 [**Project**](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gfpose-learning-3d-human-pose-prior-with/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=gfpose-learning-3d-human-pose-prior-with)
 [![arXiv](https://img.shields.io/badge/arXiv-2212.08641-b31b1b.svg)](https://arxiv.org/abs/2212.08641)
+[![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
 - a versatile framework to model plausible 3D human poses for various applications.
 </div>
 </div>
@@ -75,6 +76,7 @@ Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong#**, Yizhou Wang
 Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
 
 [**Project**](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>
+[![code](https://img.shields.io/github/stars/AaronAnima/TarGF?style=social&label=Code+Stars)](https://github.com/AaronAnima/TarGF) 
 - We develop a framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
 </div>
@@ -87,6 +89,7 @@ Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
 Xuehai Pan, Mickel Liu, **Fangwei Zhong#**, Yaodong Yang, Song-Chun Zhu, Yizhou Wang
 
 [**Project**](https://github.com/UnrealTracking/mate) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:5nxA0vEk-isC'></span></strong>
+[![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/mate) 
 - A gamification of the multi-camera multi-target target coverage problem, and an all-in-one multi-agent reinforcement learning benchmark
 </div>
 </div>
