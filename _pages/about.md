@@ -37,6 +37,8 @@ My current research interests are robot learning, multi-agent learning, and comp
 Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang
 
 [**Project**](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gfpose-learning-3d-human-pose-prior-with/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=gfpose-learning-3d-human-pose-prior-with)
+[![arXiv](https://img.shields.io/badge/arXiv-2212.08641-b31b1b.svg)](https://arxiv.org/abs/2212.08641)
 - a versatile framework to model plausible 3D human poses for various applications.
 </div>
 </div>

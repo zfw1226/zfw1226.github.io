@@ -4,8 +4,8 @@ title: ""
 excerpt: ""
 author_profile: false
 redirect_from: 
-  - /about/
-  - /about.html
+  - /publication/
+  - /publication.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -70,25 +70,3 @@ Xuehai Pan, Mickel Liu, **Fangwei Zhong#**, Yaodong Yang, Song-Chun Zhu, Yizhou 
 </div>
 </div>
 
-
-# 🎖 Selected Honors and Awards
-- *2021.09* ACM China SIGAI Doctoral Dissertation Award.
-- *2021.06* China National Postdoctoral Program for Innovative Talents.
-- *2021.06* Outstanding Graduate in Peking University and Beijing.
-- *2021.05* Top 10 Outstanding Research Award in the School of EECS, Peking University.
-- *2016.08* The Second Place in DJI RoboMasters Summer Camp Competition (2/10).
-
-# 📖 Educations
-- *2016.09 - 2021.07*, Peking University, Ph.D in Computer Science.
-- *2012.09 - 2016.07*, Beijing Jiaotong University, B.S. in Communication Engineering. 
-
-[comment]: <> (# 💬 Invited Talks)
-
-[comment]: <> (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
-
-[comment]: <> (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
-
-# 💻 Academic Service
-- *Journal Reviewer*: Nature Machine Intelligence, IJRR, IEEE TIP, IEEE TVT, IEEE RAL, ACM TOMM, Sensors, IEEE Access 
-- *Conference Reviewer*: ICML 2020/21/22/23, NeurIPS 2020/21/22, ICLR 2020/21/22/23, CVPR 2020/21/22/23, ICCV 2019/21/23, ECCV 2020/22, ACCV 2020, WACV 2021/22/23
-- *PC Member*: AAAI 2020/21/22/23
