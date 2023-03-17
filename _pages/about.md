@@ -27,7 +27,7 @@ My current research interests are robot learning, multi-agent learning, and comp
 - *2023.02*: &nbsp;🎉🎉 One paper was accepted by CVPR'23. 
 - *2022.01*: &nbsp;🎉🎉 One paper was accepted by ICLR'23. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -41,7 +41,7 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr23.png' alt="sym" width="70%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/pdf?id=CPIy9TWFYBG)
@@ -53,6 +53,29 @@ Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong#**, Yizhou Wang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publication/neurips23.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification](https://arxiv.org/pdf/2209.00853.pdf)
+
+Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
+
+[**Project**](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We develop a framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/publication/neurips22.png' alt="sym" width="70%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification](https://arxiv.org/pdf/2209.00853.pdf)
+
+Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
+
+[**Project**](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We develop a framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
+</div>
+</div>
 
 
 # 🎖 Selected Honors and Awards
