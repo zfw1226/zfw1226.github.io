@@ -34,12 +34,26 @@ My current research interests are robot learning, multi-agent learning, and comp
 
 [GFPose: Learning 3D Human Pose Prior with Gradient Fields](https://arxiv.org/pdf/2212.08641.pdf)
 
-Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong**, Yizhou Wang
+Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang
 
 [**Project**](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- a versatile framework to model plausible 3D human poses for various applications.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/pdf?id=CPIy9TWFYBG)
+
+Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong#**, Yizhou Wang
+
+[**Project**](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel MARL framework to solve proactive multi-camrea collaborations for 3D HPE in human crowds.
+</div>
+</div>
+
+
 
 # 🎖 Selected Honors and Awards
 - *2021.09* ACM China SIGAI Doctoral Dissertation Award.
@@ -59,5 +73,6 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong**, Yizho
 [comment]: <> (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Academic Service
-- *Journal Reviewer*: Nature Machine Intelligence, IJRR, IEEE TIP, IEEE TVT, IEEE RAL, ACM TMM, Sensors, IEEE Access 
-- *Conference Reviewer*: NeurIPS, ICML, ICLR, CVPR, ICCV, ECCV, WACV, ICRA
+- *Journal Reviewer*: Nature Machine Intelligence, IJRR, IEEE TIP, IEEE TVT, IEEE RAL, ACM TOMM, Sensors, IEEE Access 
+- *Conference Reviewer*: ICML 2020/21/22/23, NeurIPS 2020/21/22, ICLR 2020/21/22/23, CVPR 2020/21/22/23, ICCV 2019/21/23, ECCV 2020/22, ACCV 2020, WACV 2021/22/23
+- *PC Member*: AAAI 2020/21/22/23
