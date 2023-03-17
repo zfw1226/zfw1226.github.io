@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 excerpt: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -17,29 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as Boya Postdoctoral Researcher at Peking University with Prof. [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
-Before that, I received Ph.D in Computer Science from EECS, Peking University, supervised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), and received B.Sc in Communication Engineering from Beijing Jiaotong University.
+# 📝 Publications 
 
-My current research interests are robot learning, multi-agent learning, and computer vision, particularly in building agents with physical and social common sense  <a href='https://scholar.google.com/citations?user=ejDz1bYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-# 🔥 News
-- *2023.02*: &nbsp;🎉🎉 One paper was accepted by CVPR'23. 
-- *2022.01*: &nbsp;🎉🎉 One paper was accepted by ICLR'23. 
-
-# 📝 Recent Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[GFPose: Learning 3D Human Pose Prior with Gradient Fields](https://arxiv.org/pdf/2212.08641.pdf)
-
-Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang
-
-[**Project**](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>
-- a versatile framework to model plausible 3D human poses for various applications.
-</div>
-</div>
+- 'CVPR 2023' [GFPose: Learning 3D Human Pose Prior with Gradient Fields](https://arxiv.org/pdf/2212.08641.pdf),
+Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang [![](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://sites.google.com/view/gfpose/) 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr23.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">

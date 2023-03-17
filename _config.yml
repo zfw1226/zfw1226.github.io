@@ -9,7 +9,7 @@
 title                    : "Fangwei Zhong"
 description              : "Fangwei Zhong's Homepage. "
 repository               : "zfw1226/zfw1226.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  358733491 # get google_analytics_id from https://analytics.google.com/analytics/
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fangwei Zhong"
+  name             : "Fangwei Zhong (钟方威)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "bio"
   location         : "Beijing, China"
@@ -29,7 +29,7 @@ author:
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ejDz1bYAAAAJ&hl"
   email            : "zfw@pku.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Fangwei-Zhong" # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/zfw1226" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
