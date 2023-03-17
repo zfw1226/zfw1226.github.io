@@ -20,14 +20,12 @@ redirect_from:
 I am currently working as Boya Postdoctoral Researcher at Peking University with Prof. [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
 Before that, I received Ph.D in Computer Science from EECS, Peking University, supervised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), and received B.Sc in Communication Engineering from Beijing Jiaotong University.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-My current research interests are robot learning, multi-agent learning, and computer vision, particularly in building agents with physical and social common sense.
+My current research interests are robot learning, multi-agent learning, and computer vision, particularly in building agents with physical and social common sense  <a href='https://scholar.google.com/citations?user=ejDz1bYAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
 - *2023.02*: &nbsp;🎉🎉 One paper was accepted by CVPR'23. 
-- *2022.02*: &nbsp;🎉🎉 One paper was accepted by ICLR'23. 
+- *2022.01*: &nbsp;🎉🎉 One paper was accepted by ICLR'23. 
 
 # 📝 Publications 
 
@@ -43,17 +41,22 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong**, Yizho
 </div>
 </div>
 
-% # 🎖 Honors and Awards
-% - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-% - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Selected Honors and Awards
+- *2021.09* ACM China SIGAI Doctoral Dissertation Award.
+- *2021.06* China National Postdoctoral Program for Innovative Talents.
+- *2021.06* Outstanding Graduate in Peking University and Beijing.
+- *2021.05* Top 10 Outstanding Research Award in the School of EECS, Peking University.
+- *2016.08* The Second Place in DJI RoboMasters Summer Camp Competition (2/10).
 
 # 📖 Educations
 - *2016.09 - 2021.07*, Peking University, Ph.D in Computer Science.
 - *2012.09 - 2016.07*, Beijing Jiaotong University, B.S. in Communication Engineering. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+[comment]: <> (# 💬 Invited Talks)
+
+[comment]: <> (- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
+
+[comment]: <> (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Academic Service
 - *Journal Reviewer*: Nature Machine Intelligence, IJRR, IEEE TIP, IEEE TVT, IEEE RAL, ACM TMM, Sensors, IEEE Access 
