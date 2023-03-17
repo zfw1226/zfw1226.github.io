@@ -18,32 +18,17 @@ redirect_from:
 <span class='anchor' id='publication'></span>
 # 📝 Publications 
 
-- 'CVPR 2023' [GFPose: Learning 3D Human Pose Prior with Gradient Fields](https://arxiv.org/pdf/2212.08641.pdf),
+- <div class="badge">CVPR 2023</div> [GFPose: Learning 3D Human Pose Prior with Gradient Fields](https://arxiv.org/pdf/2212.08641.pdf),
 Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong#**, Yizhou Wang [![](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://sites.google.com/view/gfpose/) 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/iclr23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/pdf?id=CPIy9TWFYBG)
-
+- <div class="badge">ICLR 2023</div> [Proactive Multi-Camera Collaboration for 3D Human Pose Estimation](https://openreview.net/pdf?id=CPIy9TWFYBG)
 Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong#**, Yizhou Wang
-
 [**Project**](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:MXK_kJrjxJIC'></span></strong>
-- We propose a novel MARL framework to solve proactive multi-camrea collaborations for 3D HPE in human crowds.
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/publication/aaai23.png' alt="sym" width="80%"></div></div>
-<div class='paper-box-text' markdown="1">
-
+<div class="badge">AAAI 2023</div>
 [RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking]()
-
 **Fangwei Zhong***,  Xiao Bi*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
-
 [**Project**](https://sites.google.com/view/aot-rspt) <strong><span class='show_paper_citations' data=''></span></strong>
-- we propose a framework called RSPT to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publication/neurips22.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
