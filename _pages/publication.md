@@ -1,7 +1,7 @@
 ---
-permalink: /about/
-title: ""
-excerpt: ""
+permalink: /publication/
+title: "publication"
+excerpt: "publication list"
 author_profile: false
 redirect_from: 
   - /publication/
