@@ -90,13 +90,13 @@ Chu-Ran Wang, Fei Gao, **Fangwei Zhong&#x2709;**, Fangwei Zhong, Yizhou Yu, Yizh
 
 Yuanfei Wang*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
 
-[Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
+[Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
 - A Target-oriented Multi-agent Communication and Cooperation mechanism using Theory of Mind. 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/publication/icml21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/publication/icml21-1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Distraction-Robust Active Visual Tracking**
@@ -109,5 +109,82 @@ Yuanfei Wang*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
 - A mixed cooperative-competitive multi-agent game: a target and multiple distractors form a collaborative team to play against a tracker. 
 - A bunch of practical methods: a reward function for distractors, a cross-modal teacher-student learning strategy, and a recurrent attention module for the tracker.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2020</div><img src='images/publication/hitmac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning Multi-Agent Coordination for Enhancing Target Coverage in Directional Sensor Networks**
+
+*Jing Xu*, **Fangwei Zhong***, Yizhou Wang
+
+[Project](https://sites.google.com/view/hit-mac),
+[Paper](https://proceedings.neurips.cc/paper/2020/file/7250eb93b3c18cc9daa29cf58af7a004-Paper.pdf), 
+[Code ![code](https://img.shields.io/github/stars/XuJing1022/HiT-MAC?style=social&label=Code+Stars)](https://github.com/XuJing1022/HiT-MAC),
+- a Hierarchical Target-oriented Multi-Agent Coordination (HiT-MAC), which decomposes the target coverage problem into two-level tasks: targets assignment by a coordinator and tracking assigned targets by executors. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/publication/hitmac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**
+
+Jing Li*, Jing Xu*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
+
+[Project](https://sites.google.com/view/pose-assisted-collaboration),
+[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5419), 
+[Code ![code](https://img.shields.io/github/stars/LilJing/pose-assisted-collaboration?style=social&label=Code+Stars)](https://github.com/LilJing/pose-assisted-collaboration),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- An efficient yet effective multi-camera collaboration system for collaborative multiCamera active object tracking.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/advatplus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking**
+
+**Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/8896000/), 
+[Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- Employ more advanced environment augmentation technique and two-stage training strategies to improve the performance of the tracker in the case of challenging scenarios such as obstacles.
+- Analyze the target’s behaviors as the training proceeds and visualize the latent space of the tracker for a better understanding.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2019</div><img src='images/publication/advat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AD-VAT: An Asymmetric Dueling mechanism for learning Visual Active Tracking**
+
+**Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
+
+[Paper](https://openreview.net/pdf?id=HkgYmhR9KX), 
+[Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- A novel adversarial RL method which adopts an Asymmetric Dueling mechanism (tracker vs. target) for robust active visual tracking
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2019</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CRAVES: Controlling Robotic Arm with a Vision-based, Economic System**
+
+Yiming Zuo, Weichao Qiu, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
+
+[Project](https://craves.ai/),
+[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zuo_CRAVES_Controlling_Robotic_Arm_With_a_Vision-Based_Economic_System_CVPR_2019_paper.pdf),
+[Code ![code](https://img.shields.io/github/stars/zuoym15/craves.ai?style=social&label=Code+Stars)](https://github.com/zuoym15/craves.ai),
+[Controller ![code](https://img.shields.io/github/stars/zfw1226/craves_control?style=social&label=Code+Stars)](https://github.com/zfw1226/craves_control),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- A vision system for low-cost arm control: trains a vision model in virtual environment, and applies it to real-world images after domain adaptation (a semi-supervised approach).
+- one virtual environment for collection data and reinforcement learning.
+- two real-world datasets for evaluation.
 </div>
 </div>
