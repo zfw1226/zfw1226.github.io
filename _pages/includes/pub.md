@@ -190,7 +190,7 @@ Yiming Zuo*, Weichao Qiu*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/e2epami.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning**
@@ -204,7 +204,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2018</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2018</div><img src='images/publication/icml18.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **End-to-end Active Object Tracking via Reinforcement Learning**
@@ -219,7 +219,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/unrealcv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unrealcv: Virtual worlds for computer vision**
