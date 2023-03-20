@@ -4,7 +4,8 @@ on:
  page_build: 
  schedule:
   - cron:  '0 8 * * *'
-
+permissions: # 这里是顶层 permissions
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
