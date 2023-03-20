@@ -2,10 +2,7 @@
 permalink: /publications/
 title: "publication"
 excerpt: "publication list"
-author_profile: false
-redirect_from: 
-  - /publication/
-  - /publication.html
+author_profile: true
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
