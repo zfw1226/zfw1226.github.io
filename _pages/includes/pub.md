@@ -143,7 +143,7 @@ Jing Li*, Jing Xu*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/advatplus.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/advatplus.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AD-VAT+: An Asymmetric Dueling Mechanism for Learning and Understanding Visual Active Tracking**
@@ -190,7 +190,7 @@ Yiming Zuo*, Weichao Qiu*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/e2epami.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/e2e-real.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning**
@@ -219,7 +219,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/unrealcv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/unrealcv.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unrealcv: Virtual worlds for computer vision**
