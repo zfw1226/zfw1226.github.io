@@ -127,7 +127,7 @@ Yuanfei Wang*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/publication/hitmac.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2020</div><img src='images/publication/aaai20.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**
@@ -138,6 +138,7 @@ Jing Li*, Jing Xu*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5419), 
 [Code ![code](https://img.shields.io/github/stars/LilJing/pose-assisted-collaboration?style=social&label=Code+Stars)](https://github.com/LilJing/pose-assisted-collaboration),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+[Demo](https://www.youtube.com/watch?v=8Ha7HGkRv6k)
 - An efficient yet effective multi-camera collaboration system for collaborative multiCamera active object tracking.
 </div>
 </div>
@@ -176,7 +177,7 @@ Jing Li*, Jing Xu*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **CRAVES: Controlling Robotic Arm with a Vision-based, Economic System**
 
-Yiming Zuo, Weichao Qiu, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
+Yiming Zuo*, Weichao Qiu*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
 
 [Project](https://craves.ai/),
 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zuo_CRAVES_Controlling_Robotic_Arm_With_a_Vision-Based_Economic_System_CVPR_2019_paper.pdf),
@@ -184,7 +185,63 @@ Yiming Zuo, Weichao Qiu, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuil
 [Controller ![code](https://img.shields.io/github/stars/zfw1226/craves_control?style=social&label=Code+Stars)](https://github.com/zfw1226/craves_control),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
 - A vision system for low-cost arm control: trains a vision model in virtual environment, and applies it to real-world images after domain adaptation (a semi-supervised approach).
-- one virtual environment for collection data and reinforcement learning.
-- two real-world datasets for evaluation.
+- One virtual environment for collection data and reinforcement learning.
+- Two real-world datasets for evaluation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TPAMI</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning**
+
+Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
+
+[Paper](https://arxiv.org/pdf/1808.03405.pdf),
+[Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- First Deploy End-to-end active object tracker trained in virtual environment in real-world robot.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2018</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**End-to-end Active Object Tracking via Reinforcement Learning**
+
+Wenhan Luo*, Peng Sun*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
+
+[Paper](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf),
+[Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- An end-to-end active objet tracking solution via deep reinforcement learning, where a ConvNet-LSTM function approximator is adopted for the direct frame-to-action prediction.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/craves.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unrealcv: Virtual worlds for computer vision**
+
+Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille
+
+[Project](https://unrealcv.org/),
+[Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
+[Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv),
+- An open-sourced project to help computer vision researchers build virtual worlds using Unreal Engine 4 (UE4).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/wacv18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Detect-SLAM: Making Object Detection and SLAM Mutually Beneficial**
+
+**Fangwei Zhong**, Sheng Wang, Ziqi Zhang, Chen Zhou, Yizhou Wang
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/8354219/),
+[Video](https://www.youtube.com/watch?v=eqJiyU9ebaY)
+- A robotic vision system which integrates SLAM with a deep neural network-based object detector to make the two functions mutually beneficial.
 </div>
 </div>
