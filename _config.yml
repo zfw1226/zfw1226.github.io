@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Fangwei Zhong"
-description              : "Fangwei Zhong's Homepage. "
+description              : "钟方威"
 repository               : "zfw1226/zfw1226.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fangwei Zhong (钟方威)"
+  name             : "Fangwei Zhong"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "bio"
+  bio              : "Boya Postdoctoral Researcher, Peking University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
