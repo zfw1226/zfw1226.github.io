@@ -21,7 +21,7 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;*
 
 **Proactive Multi-Camera Collaboration for 3D Human Pose Estimation**
 
-Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong&#x2709;**, Yizhou Wang
+Hai Ci*, Mickel Liu*, Xuehai Pan*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **ICLR 2023**, 
 [Project](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:MXK_kJrjxJIC'></span></strong>,
@@ -51,22 +51,63 @@ Hai Ci, Mickel Liu, Xuehai Pan, **Fangwei Zhong&#x2709;**, Yizhou Wang
 Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
 
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
-[Paper](https://arxiv.org/pdf/2209.00853.pdf)
-[![code](https://img.shields.io/github/stars/AaronAnima/TarGF?style=social&label=Code+Stars)](https://github.com/AaronAnima/TarGF) 
+[Paper](https://arxiv.org/pdf/2209.00853.pdf),
+[Code](https://github.com/AaronAnima/TarGF) 
 - We develop a framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D\&B 2022</div><img src='images/publication/mate.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS D&B 2022</div><img src='images/publication/mate.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control**
 
-Xuehai Pan, Mickel Liu, **Fangwei Zhong#**, Yaodong Yang, Song-Chun Zhu, Yizhou Wang
+Xuehai Pan*, Mickel Liu*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Song-Chun Zhu, Yizhou Wang
 
 [Project](https://github.com/UnrealTracking/mate) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:5nxA0vEk-isC'></span></strong>, 
 [Paper](https://openreview.net/pdf?id=SyoUVEyzJbE),
 [![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/mate) 
 - A gamification of the multi-camera multi-target target coverage problem, and an all-in-one multi-agent reinforcement learning benchmark
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022</div><img src='images/publication/icml22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Disentangling Disease-related Representation from Obscure for Disease Prediction**
+
+Chu-Ran Wang, Fei Gao, **Fangwei Zhong&#x2709;**, Fangwei Zhong, Yizhou Yu, Yizhou Wang
+
+[Paper](https://proceedings.mlr.press/v162/wang22f/wang22f.pdf)
+- A disentanglement learning strategy under the guidance of alpha blending generation in an encoder-decoder framework (DAB-Net).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2022</div><img src='images/publication/iclr22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind**
+
+Yuanfei Wang*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
+
+[Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
+- A Target-oriented Multi-agent Communication and Cooperation mechanism using Theory of Mind. 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2021</div><img src='images/publication/icml21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards Distraction-Robust Active Visual Tracking**
+
+**Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
+
+[Project](https://sites.google.com/view/distraction-robust-avt),
+[Paper](http://proceedings.mlr.press/v139/zhong21b/zhong21b.pdf), 
+[Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/tree/distractor),
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+- A mixed cooperative-competitive multi-agent game: a target and multiple distractors form a collaborative team to play against a tracker. 
+- A bunch of practical methods: a reward function for distractors, a cross-modal teacher-student learning strategy, and a recurrent attention module for the tracker.
 </div>
 </div>
