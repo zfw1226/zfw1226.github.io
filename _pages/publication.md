@@ -1,8 +1,8 @@
 ---
-permalink: /
+permalink: /publication
 title: "publication"
 excerpt: "publication list"
-author_profile: false
+author_profile: true
 redirect_from: 
   - /publication/
   - /publication.html
