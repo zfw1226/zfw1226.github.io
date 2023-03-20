@@ -204,7 +204,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2018</div><img src='images/publication/icml18.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2018</div><img src='images/publication/icml18.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **End-to-end Active Object Tracking via Reinforcement Learning**
