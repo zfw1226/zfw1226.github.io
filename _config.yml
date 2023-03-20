@@ -73,7 +73,6 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -91,6 +90,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn
