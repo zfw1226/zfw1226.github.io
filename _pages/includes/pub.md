@@ -1,5 +1,7 @@
 # 📝 Publications 
 
+\* : co-first author, &#x2709; : corresponding author
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -35,7 +37,7 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 [RSPT: Reconstruct Surroundings and Predict Trajectories for Generalizable Active Object Tracking]()
 
-**Fangwei Zhong***,  Xiao Bi*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
+**Fangwei Zhong**\*,  Xiao Bi\*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
 
 **AAAI 2023** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data=''></span></strong>, 
 [Project](https://sites.google.com/view/aot-rspt)
@@ -48,8 +50,9 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification**
 
-**NeurIPS 2022**, Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
+Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 
+**NeurIPS 2022**,
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
 [Paper](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
@@ -63,7 +66,7 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 **MATE: Benchmarking Multi-Agent Reinforcement Learning in Distributed Target Coverage Control**
 
 
-Xuehai Pan*, Mickel Liu*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Song-Chun Zhu, Yizhou Wang
+Xuehai Pan\*, Mickel Liu\*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Song-Chun Zhu, Yizhou Wang
 
 **NeurIPS D&B 2022**,
 [Project](https://github.com/UnrealTracking/mate) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:5nxA0vEk-isC'></span></strong>, 
@@ -91,7 +94,7 @@ Chu-Ran Wang, Fei Gao, **Fangwei Zhong&#x2709;**, Fangwei Zhong, Yizhou Yu, Yizh
 
 **ToM2C: Target-oriented Multi-agent Communication and Cooperation with Theory of Mind**
 
-Yuanfei Wang\*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
+Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 **ICLR 2022**,
 [Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
@@ -122,7 +125,7 @@ Yuanfei Wang\*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
 
 **Learning Multi-Agent Coordination for Enhancing Target Coverage in Directional Sensor Networks**
 
-Jing Xu*, **Fangwei Zhong***, Yizhou Wang
+Jing Xu*, **Fangwei Zhong**\*, Yizhou Wang
 
 **NeurIPS 2021**
 [Project](https://sites.google.com/view/hit-mac),
@@ -138,7 +141,7 @@ Jing Xu*, **Fangwei Zhong***, Yizhou Wang
 
 **Pose-Assisted Multi-Camera Collaboration for Active Object Tracking**
 
-Jing Li*, Jing Xu*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
+Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **AAAI 2020**
 [Project](https://sites.google.com/view/pose-assisted-collaboration),
@@ -186,7 +189,7 @@ Jing Li*, Jing Xu*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **CRAVES: Controlling Robotic Arm with a Vision-based, Economic System**
 
-Yiming Zuo*, Weichao Qiu*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
+Yiming Zuo\*, Weichao Qiu\*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
 
 **CVPR 2019**
 [Project](https://craves.ai/),
@@ -205,7 +208,7 @@ Yiming Zuo*, Weichao Qiu*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yu
 
 **End-to-end Active Object Tracking and Its Real-world Deployment via Reinforcement Learning**
 
-Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
+Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**\*, Wei Liu, Tong Zhang, Yizhou Wang
 
 **IEEE TPAMI**
 [Paper](https://arxiv.org/pdf/1808.03405.pdf),
@@ -220,7 +223,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
 
 **End-to-end Active Object Tracking via Reinforcement Learning**
 
-Wenhan Luo*, Peng Sun*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
+Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
 **ICML 2018**
 [Project](https://sites.google.com/site/whluoimperial/active_tracking_icml2018),
@@ -254,6 +257,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille
 
 **ACM Multimedia 2017 Open Source Software Competition**
+
 [Project](https://unrealcv.org/),
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
 [Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv),
