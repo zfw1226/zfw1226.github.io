@@ -2,19 +2,16 @@
 # main links links
 main:
   - title: "About Me"
-    url: /about/#about-me
+    url: "/#about-me"
 
   - title: "News"
-    url: /about/#-news
+    url: "/#-news"
 
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#~Selected-Honors-and-Awards"
 
   - title: "Educations"
     url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
