@@ -12,7 +12,7 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;*
 [Paper](https://arxiv.org/abs/2212.08641)
 [![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gfpose-learning-3d-human-pose-prior-with/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=gfpose-learning-3d-human-pose-prior-with)
-- a versatile framework to model plausible 3D human poses for various applications.
+- A versatile framework to model plausible 3D human poses in gradient fields for various applications.
 </div>
 </div>
 
@@ -26,7 +26,7 @@ Hai Ci*, Mickel Liu*, Xuehai Pan*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 **ICLR 2023**, 
 [Project](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:MXK_kJrjxJIC'></span></strong>,
 [Paper](https://openreview.net/pdf?id=CPIy9TWFYBG)
-- We propose a novel MARL framework to solve proactive multi-camrea collaborations for 3D HPE in human crowds.
+- A novel MARL framework to solve proactive multi-camrea collaborations for 3D HPE in human crowds.
 </div>
 </div>
 
@@ -39,7 +39,7 @@ Hai Ci*, Mickel Liu*, Xuehai Pan*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **AAAI 2023** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data=''></span></strong>, 
 [Project](https://sites.google.com/view/aot-rspt)
-- we propose a framework called RSPT to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
+- A framework called RSPT to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Mingdong Wu*, **Fangwei Zhong***, Yulong Xia, Hao Dong
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
 [Paper](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
-- We develop a framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
+- A framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
 </div>
 
@@ -117,7 +117,7 @@ Yuanfei Wang*, **Fangwei Zhong***, Jing Xu, Yizhou Wang
 
 **Learning Multi-Agent Coordination for Enhancing Target Coverage in Directional Sensor Networks**
 
-*Jing Xu*, **Fangwei Zhong***, Yizhou Wang
+Jing Xu*, **Fangwei Zhong***, Yizhou Wang
 
 [Project](https://sites.google.com/view/hit-mac),
 [Paper](https://proceedings.neurips.cc/paper/2020/file/7250eb93b3c18cc9daa29cf58af7a004-Paper.pdf), 
@@ -200,7 +200,7 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
 [Paper](https://arxiv.org/pdf/1808.03405.pdf),
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
-- First Deploy End-to-end active object tracker trained in virtual environment in real-world robot.
+- Deploy End-to-end active object tracker trained in virtual environment in real-world robot.
 </div>
 </div>
 
@@ -211,15 +211,29 @@ Wenhan Luo*, Peng Sun*, **Fangwei Zhong***, Wei Liu, Tong Zhang, Yizhou Wang
 
 Wenhan Luo*, Peng Sun*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
+[Project](https://sites.google.com/site/whluoimperial/active_tracking_icml2018),
 [Paper](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf),
-[Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
-[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+[Training code](https://github.com/whluo/active_tracking_drl),
+[Gym-tvizdoom](https://bitbucket.org/pengsun000/gym-tvizdoom/src/master),
+[Gym-unrealcv](https://github.com/zfw1226/gym-unrealcv)
 - An end-to-end active objet tracking solution via deep reinforcement learning, where a ConvNet-LSTM function approximator is adopted for the direct frame-to-action prediction.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2018</div><img src='images/publication/detect-slam.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/unrealcv.gif' alt="sym" width="100%"></div></div>
+**Detect-SLAM: Making Object Detection and SLAM Mutually Beneficial**
+
+**Fangwei Zhong**, Sheng Wang, Ziqi Zhang, Chen Zhou, Yizhou Wang
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/8354219/),
+[Video](https://www.youtube.com/watch?v=eqJiyU9ebaY)
+- A robotic vision system which integrates SLAM with a deep neural network-based object detector to make the two functions mutually beneficial.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2017</div><img src='images/publication/unrealcv.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Unrealcv: Virtual worlds for computer vision**
@@ -230,18 +244,5 @@ Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, 
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
 [Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv),
 - An open-sourced project to help computer vision researchers build virtual worlds using Unreal Engine 4 (UE4).
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM</div><img src='images/publication/wacv18.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Detect-SLAM: Making Object Detection and SLAM Mutually Beneficial**
-
-**Fangwei Zhong**, Sheng Wang, Ziqi Zhang, Chen Zhou, Yizhou Wang
-
-[Paper](https://ieeexplore.ieee.org/abstract/document/8354219/),
-[Video](https://www.youtube.com/watch?v=eqJiyU9ebaY)
-- A robotic vision system which integrates SLAM with a deep neural network-based object detector to make the two functions mutually beneficial.
 </div>
 </div>
