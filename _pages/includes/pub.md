@@ -11,8 +11,8 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;*
 
 **CVPR 2023**,
 [Project](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>, 
-[Paper](https://arxiv.org/abs/2212.08641)
-[![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
+[Paper](https://arxiv.org/abs/2212.08641),
+[Code ![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gfpose-learning-3d-human-pose-prior-with/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=gfpose-learning-3d-human-pose-prior-with)
 - A versatile framework to model plausible 3D human poses in gradient fields for various applications.
 </div>
@@ -40,8 +40,8 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 **Fangwei Zhong**\*,  Xiao Bi\*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
 
 **AAAI 2023** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data=''></span></strong>, 
-[Project](https://sites.google.com/view/aot-rspt)
-- A framework called RSPT to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
+[Project](https://sites.google.com/view/aot-rspt), [Paper]()
+- A framework to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
 </div>
 </div>
 
@@ -68,10 +68,11 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 
 Xuehai Pan\*, Mickel Liu\*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Song-Chun Zhu, Yizhou Wang
 
-**NeurIPS D&B 2022**,
+**NeurIPS 2022 Datasets and Benchmarks Track**,
+
 [Project](https://github.com/UnrealTracking/mate) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:5nxA0vEk-isC'></span></strong>, 
 [Paper](https://openreview.net/pdf?id=SyoUVEyzJbE),
-[![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/mate) 
+[Code ![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/mate) 
 - A gamification of the multi-camera multi-target target coverage problem, and an all-in-one multi-agent reinforcement learning benchmark
 </div>
 </div>
@@ -110,7 +111,7 @@ Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 **Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
 
-**ICML 2021**
+**ICML 2021**,
 [Project](https://sites.google.com/view/distraction-robust-avt),
 [Paper](http://proceedings.mlr.press/v139/zhong21b/zhong21b.pdf), 
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/tree/distractor),
@@ -143,11 +144,11 @@ Jing Xu*, **Fangwei Zhong**\*, Yizhou Wang
 
 Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
-**AAAI 2020**
+**AAAI 2020**,
 [Project](https://sites.google.com/view/pose-assisted-collaboration),
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5419), 
 [Code ![code](https://img.shields.io/github/stars/LilJing/pose-assisted-collaboration?style=social&label=Code+Stars)](https://github.com/LilJing/pose-assisted-collaboration),
-[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
+[Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv),
 [Demo](https://www.youtube.com/watch?v=8Ha7HGkRv6k)
 - An efficient yet effective multi-camera collaboration system for collaborative multiCamera active object tracking.
 </div>
@@ -160,7 +161,7 @@ Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
 
-**IEEE TPAMI**
+**IEEE TPAMI**,
 [Paper](https://ieeexplore.ieee.org/abstract/document/8896000/), 
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
@@ -176,7 +177,7 @@ Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
 
-**ICLR 2019**
+**ICLR 2019**,
 [Paper](https://openreview.net/pdf?id=HkgYmhR9KX), 
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
@@ -191,7 +192,7 @@ Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 Yiming Zuo\*, Weichao Qiu\*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
 
-**CVPR 2019**
+**CVPR 2019**,
 [Project](https://craves.ai/),
 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zuo_CRAVES_Controlling_Robotic_Arm_With_a_Vision-Based_Economic_System_CVPR_2019_paper.pdf),
 [Code ![code](https://img.shields.io/github/stars/zuoym15/craves.ai?style=social&label=Code+Stars)](https://github.com/zuoym15/craves.ai),
@@ -210,7 +211,7 @@ Yiming Zuo\*, Weichao Qiu\*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L 
 
 Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**\*, Wei Liu, Tong Zhang, Yizhou Wang
 
-**IEEE TPAMI**
+**IEEE TPAMI**,
 [Paper](https://arxiv.org/pdf/1808.03405.pdf),
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
@@ -225,7 +226,7 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**\*, Wei Liu, Tong Zhang, Yizhou Wang
 
 Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
-**ICML 2018**
+**ICML 2018**,
 [Project](https://sites.google.com/site/whluoimperial/active_tracking_icml2018),
 [Paper](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf),
 [Training code](https://github.com/whluo/active_tracking_drl),
@@ -242,7 +243,7 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
 **Fangwei Zhong**, Sheng Wang, Ziqi Zhang, Chen Zhou, Yizhou Wang
 
-**WACV 2018**
+**WACV 2018**,
 [Paper](https://ieeexplore.ieee.org/abstract/document/8354219/),
 [Video](https://www.youtube.com/watch?v=eqJiyU9ebaY)
 - A robotic vision system which integrates SLAM with a deep neural network-based object detector to make the two functions mutually beneficial.
@@ -256,7 +257,7 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
 Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, Yizhou Wang, Alan Yuille
 
-**ACM Multimedia 2017 Open Source Software Competition**
+**ACM Multimedia 2017 Open Source Software Competition**,
 
 [Project](https://unrealcv.org/),
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
