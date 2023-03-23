@@ -45,7 +45,7 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publication/neurips22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/publication/targf_update.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TarGF: Learning Target Gradient Field to Rearrange Objects without Explicit Goal Specification**
