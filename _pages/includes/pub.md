@@ -2,6 +2,19 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/ral23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**
+
+Hongcheng Wang\*, Yuxuan Wang\*, **Fangwei Zhong**, Mingdong Wu, Yizhou Wang, Jianwei Zhang, Hao Dong
+
+**IEEE RA-L**,
+[Paper]()
+- A brain-inspired plug-and-play method to learn a semantic-agnostic and spatial-aware representation for generalizable visual-audio navigation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
