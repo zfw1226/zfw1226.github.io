@@ -2,7 +2,7 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2023</div><img src='images/publication/ral23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ral23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**
