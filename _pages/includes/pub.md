@@ -9,8 +9,8 @@
 
 Hongcheng Wang\*, Yuxuan Wang\*, **Fangwei Zhong**, Mingdong Wu, Yizhou Wang, Jianwei Zhang, Hao Dong
 
-**IEEE RA-L**,
-[Paper]()
+**IEEE Robotics and Automation Letters (RA-L) 2023 **,
+[Paper](https://arxiv.org/abs/2304.10773) [Demo](https://www.youtube.com/watch?v=cbNHeKjo3k4)
 - A brain-inspired plug-and-play method to learn a semantic-agnostic and spatial-aware representation for generalizable visual-audio navigation.
 </div>
 </div>
@@ -22,7 +22,8 @@ Hongcheng Wang\*, Yuxuan Wang\*, **Fangwei Zhong**, Mingdong Wu, Yizhou Wang, Ji
 
 Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
-**CVPR 2023**,
+**Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2023**,
+
 [Project](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>, 
 [Paper](https://arxiv.org/abs/2212.08641),
 [Code ![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
@@ -38,7 +39,8 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;*
 
 Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
-**ICLR 2023**, 
+**International Conference on Learning Representations (ICLR), 2023**, 
+
 [Project](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:MXK_kJrjxJIC'></span></strong>,
 [Paper](https://openreview.net/pdf?id=CPIy9TWFYBG)
 - A novel MARL framework to solve proactive multi-camrea collaborations for 3D HPE in human crowds.
@@ -52,7 +54,8 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **Fangwei Zhong**\*,  Xiao Bi\*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
 
-**AAAI 2023** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data=''></span></strong>, 
+**Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data=''></span></strong>, 
+
 [Project](https://sites.google.com/view/aot-rspt), [Paper](https://arxiv.org/pdf/2304.03623v1.pdf)
 - A framework to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
 </div>
@@ -65,7 +68,8 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 
-**NeurIPS 2022**,
+**Advances in Neural Information Processing Systems (NeurIPS), 2022**,
+
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
 [Paper](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
@@ -81,7 +85,7 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 
 Xuehai Pan\*, Mickel Liu\*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Song-Chun Zhu, Yizhou Wang
 
-**NeurIPS 2022 Datasets and Benchmarks Track**,
+**Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS D&B), 2022**,
 
 [Project](https://github.com/UnrealTracking/mate) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:5nxA0vEk-isC'></span></strong>, 
 [Paper](https://openreview.net/pdf?id=SyoUVEyzJbE),
@@ -97,7 +101,8 @@ Xuehai Pan\*, Mickel Liu\*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Son
 
 Chu-Ran Wang, Fei Gao, **Fangwei Zhong&#x2709;**, Fangwei Zhong, Yizhou Yu, Yizhou Wang
 
-**ICML 2022**,
+**International Conference on Machine Learning (ICML), 2022**,
+
 [Paper](https://proceedings.mlr.press/v162/wang22f/wang22f.pdf)
 - A disentanglement learning strategy under the guidance of alpha blending generation in an encoder-decoder framework (DAB-Net).
 </div>
@@ -110,7 +115,8 @@ Chu-Ran Wang, Fei Gao, **Fangwei Zhong&#x2709;**, Fangwei Zhong, Yizhou Yu, Yizh
 
 Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
-**ICLR 2022**,
+**International Conference on Learning Representations (ICLR), 2022**,
+
 [Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
 - A Target-oriented Multi-agent Communication and Cooperation mechanism using Theory of Mind. 
 </div>
@@ -124,7 +130,8 @@ Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 **Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
 
-**ICML 2021**,
+**International Conference on Machine Learning (ICML), 2021**,
+
 [Project](https://sites.google.com/view/distraction-robust-avt),
 [Paper](http://proceedings.mlr.press/v139/zhong21b/zhong21b.pdf), 
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/tree/distractor),
@@ -141,7 +148,8 @@ Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 Jing Xu*, **Fangwei Zhong**\*, Yizhou Wang
 
-**NeurIPS 2021**
+**Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), 2021**,
+
 [Project](https://sites.google.com/view/hit-mac),
 [Paper](https://proceedings.neurips.cc/paper/2020/file/7250eb93b3c18cc9daa29cf58af7a004-Paper.pdf), 
 [Code ![code](https://img.shields.io/github/stars/XuJing1022/HiT-MAC?style=social&label=Code+Stars)](https://github.com/XuJing1022/HiT-MAC),
@@ -157,7 +165,8 @@ Jing Xu*, **Fangwei Zhong**\*, Yizhou Wang
 
 Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
-**AAAI 2020**,
+**Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020**,
+
 [Project](https://sites.google.com/view/pose-assisted-collaboration),
 [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5419), 
 [Code ![code](https://img.shields.io/github/stars/LilJing/pose-assisted-collaboration?style=social&label=Code+Stars)](https://github.com/LilJing/pose-assisted-collaboration),
@@ -174,7 +183,8 @@ Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
 
-**IEEE TPAMI**,
+**IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2021**,
+
 [Paper](https://ieeexplore.ieee.org/abstract/document/8896000/), 
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
@@ -190,7 +200,8 @@ Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 **Fangwei Zhong**, Peng Sun, Wenhan Luo, Tingyun Yan, Yizhou Wang
 
-**ICLR 2019**,
+**International Conference on Learning Representations (ICLR), 2019**,
+
 [Paper](https://openreview.net/pdf?id=HkgYmhR9KX), 
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
@@ -205,7 +216,8 @@ Jing Li\*, Jing Xu\*, **Fangwei Zhong***, Xiangyu Kong, Yu Qiao, Yizhou Wang
 
 Yiming Zuo\*, Weichao Qiu\*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L Yuille
 
-**CVPR 2019**,
+**Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2019**,
+
 [Project](https://craves.ai/),
 [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zuo_CRAVES_Controlling_Robotic_Arm_With_a_Vision-Based_Economic_System_CVPR_2019_paper.pdf),
 [Code ![code](https://img.shields.io/github/stars/zuoym15/craves.ai?style=social&label=Code+Stars)](https://github.com/zuoym15/craves.ai),
@@ -224,7 +236,8 @@ Yiming Zuo\*, Weichao Qiu\*, Lingxi Xie, **Fangwei Zhong**, Yizhou Wang, Alan L 
 
 Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**\*, Wei Liu, Tong Zhang, Yizhou Wang
 
-**IEEE TPAMI**,
+**IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2020**,
+
 [Paper](https://arxiv.org/pdf/1808.03405.pdf),
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
@@ -239,7 +252,8 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**\*, Wei Liu, Tong Zhang, Yizhou Wang
 
 Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
-**ICML 2018**,
+**International Conference on Machine Learning (ICML), 2018**,
+
 [Project](https://sites.google.com/site/whluoimperial/active_tracking_icml2018),
 [Paper](http://proceedings.mlr.press/v80/luo18a/luo18a.pdf),
 [Training code](https://github.com/whluo/active_tracking_drl),
@@ -256,7 +270,8 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 
 **Fangwei Zhong**, Sheng Wang, Ziqi Zhang, Chen Zhou, Yizhou Wang
 
-**WACV 2018**,
+**IEEE Winter Conference on Applications of Computer Vision (WACV), 2018**,
+
 [Paper](https://ieeexplore.ieee.org/abstract/document/8354219/),
 [Video](https://www.youtube.com/watch?v=eqJiyU9ebaY)
 - A robotic vision system which integrates SLAM with a deep neural network-based object detector to make the two functions mutually beneficial.
