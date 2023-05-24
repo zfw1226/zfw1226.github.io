@@ -72,7 +72,7 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 ***Advances in Neural Information Processing Systems (NeurIPS), 2022***
 
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
-[Paper](https://arxiv.org/pdf/2209.00853.pdf),
+[Paper](https://arxiv.org/pdf/2209.00853.pdf),______
 [Code](https://github.com/AaronAnima/TarGF) 
 - A framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
@@ -100,7 +100,7 @@ Xuehai Pan\*, Mickel Liu\*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Son
 
 **Disentangling Disease-related Representation from Obscure for Disease Prediction**
 
-Chu-Ran Wang, Fei Gao, **Fangwei Zhong&#x2709;**, Fangwei Zhong, Yizhou Yu, Yizhou Wang
+Chu-Ran Wang, Fei Gao, Fandong Zhang, **Fangwei Zhong&#x2709;**, Yizhou Yu, Yizhou Wang
 
 ***International Conference on Machine Learning (ICML), 2022***
 
