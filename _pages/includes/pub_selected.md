@@ -1,20 +1,6 @@
-# 📝 Publications 
+# 📝 Selected Publications 
 
 \* : co-first author, &#x2709; : corresponding author
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ral23.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Learning Semantic-Agnostic and Spatial-Aware Representation for Generalizable Visual-Audio Navigation**
-
-Hongcheng Wang\*, Yuxuan Wang\*, **Fangwei Zhong**, Mingdong Wu, Yizhou Wang, Jianwei Zhang, Hao Dong
-
-***IEEE Robotics and Automation Letters (RA-L), 2023***
-
-[Paper](https://arxiv.org/abs/2304.10773), [Demo](https://www.youtube.com/watch?v=cbNHeKjo3k4)
-- A brain-inspired plug-and-play method to learn a semantic-agnostic and spatial-aware representation for generalizable visual-audio navigation.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -25,7 +11,7 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;*
 
 ***Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2023***
 
-[Project](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>, 
+[Project](https://sites.google.com/view/gfpose/), 
 [Paper](https://arxiv.org/abs/2212.08641),
 [Code ![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gfpose-learning-3d-human-pose-prior-with/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=gfpose-learning-3d-human-pose-prior-with)
@@ -42,7 +28,7 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***International Conference on Learning Representations (ICLR), 2023***
 
-[Project](https://sites.google.com/view/active3dpose) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:MXK_kJrjxJIC'></span></strong>,
+[Project](https://sites.google.com/view/active3dpose),
 [Paper](https://openreview.net/pdf?id=CPIy9TWFYBG)
 - A novel MARL framework to solve proactive multi-camrea collaborations for 3D HPE in human crowds.
 </div>
@@ -73,8 +59,8 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 
 ***Advances in Neural Information Processing Systems (NeurIPS), 2022***
 
-[Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
-[Paper](https://arxiv.org/pdf/2209.00853.pdf),______
+[Project](https://sites.google.com/view/targf),
+[Paper](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
 - A framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
@@ -91,7 +77,7 @@ Xuehai Pan\*, Mickel Liu\*, **Fangwei Zhong&#x2709;**, Yaodong Yang&#x2709;, Son
 
 ***Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (NeurIPS D&B), 2022***
 
-[Project](https://github.com/UnrealTracking/mate) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:5nxA0vEk-isC'></span></strong>, 
+[Project](https://github.com/UnrealTracking/mate), 
 [Paper](https://openreview.net/pdf?id=SyoUVEyzJbE),
 [Code ![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/mate) 
 - A gamification of the multi-camera multi-target target coverage problem, and an all-in-one multi-agent reinforcement learning benchmark
@@ -197,7 +183,7 @@ Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, 
 
 [Project](https://unrealcv.org/),
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
-[Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv),
+[Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv)
 - An open-sourced project to help computer vision researchers build virtual worlds using Unreal Engine 4 (UE4).
 </div>
 </div>
