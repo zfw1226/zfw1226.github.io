@@ -1,7 +1,7 @@
 # 🔥 News
 - *2023.11*: [Siyuan](https://siyuanqi.github.io/) and I organized a [workshop](https://sites.google.com/view/dai-2023-masce) on Multi-Agent Systems in Complex Environments at [DAI 2023](http://www.adai.ai/dai/2023/index.html).
 - *2023.11*: Guest lecture about Utility at PKU [Cognitive Reasoning](https://yzhu.io/courses/core/), hosted by [Yixin Zhu](https://yzhu.io/).
-- *2023.11*: &nbsp;🎉🎉 One paper about Bimanual Dexterous Manipulation was accepted by IEEE T-PAMI.
+- *2023.11*: &nbsp;🎉🎉 One paper about Bimanual Dexterous Manipulation was accepted by [IEEE T-PAMI](https://ieeexplore.ieee.org/abstract/document/10343126).
 - *2023.10*: &nbsp;🎉🎉 Honored to receive the [Tencent Rhino-Bird Outstanding Mentor Award](https://ur.tencent.com/article/1462).
 - *2023.07*: Talk at [ACM TURC 2023 Symposiums (SIGAI China)](https://www.acmturc.com/2023/en/SIGAI_China.html) in Wuhan.
 - *2023.07*: &nbsp;🎉🎉 One [paper](https://github.com/PKU-Alignment/ReDMan) was accepted by Machine Learning (Journal). 
