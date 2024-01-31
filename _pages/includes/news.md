@@ -1,6 +1,6 @@
 # 🔥 News
 - *2024.01* &nbsp;🎉🎉 One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437059) about Heterogeneous Multi-agent Cooperation was accepted by Neural Networks.
-- *2024.12* &nbsp;🎉🎉 One [paper](https://drive.google.com/file/d/18MTVr8_vGrTrNStbF7GsoluVW-tWzuWQ/view) about Adaptive Multi-Agent Systems was accepted by [AAAI 2024 CMASDL Workshop](https://www.is3rlab.org/aaai24-cmasdl-workshop.github.io/).
+- *2023.12* &nbsp;🎉🎉 One [paper](https://drive.google.com/file/d/18MTVr8_vGrTrNStbF7GsoluVW-tWzuWQ/view) about Adaptive Multi-Agent Systems was accepted by [AAAI 2024 CMASDL Workshop](https://www.is3rlab.org/aaai24-cmasdl-workshop.github.io/).
 - *2023.11*: [Siyuan](https://siyuanqi.github.io/) and I organized a [workshop](https://sites.google.com/view/dai-2023-masce) on Multi-Agent Systems in Complex Environments at [DAI 2023](http://www.adai.ai/dai/2023/index.html).
 - *2023.11*: Guest lecture about Utility at PKU [Cognitive Reasoning](https://yzhu.io/courses/core/), hosted by [Yixin Zhu](https://yzhu.io/).
 - *2023.11*: &nbsp;🎉🎉 One paper about Bimanual Dexterous Manipulation was accepted by [IEEE T-PAMI](https://ieeexplore.ieee.org/abstract/document/10343126).
