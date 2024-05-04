@@ -2,6 +2,21 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fast Peer Adaptation with Context-aware Exploration**
+
+Long Ma, Yuanfei Wang, **Fangwei Zhong&#x2709;**, Song-Chun Zhu, Yizhou Wang
+
+***International Conference on Machine Learning (ICML), 2024***
+
+[Project](https://sites.google.com/view/peer-adaptation), 
+[Paper](https://arxiv.org/pdf/2402.02468)
+- Learn a context-aware policy with a peer identification reward to effectively explore and quickly adapt to unknown peers. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
