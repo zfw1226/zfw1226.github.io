@@ -2,7 +2,7 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/publication/cvpr23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/publication/icml24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Fast Peer Adaptation with Context-aware Exploration**
