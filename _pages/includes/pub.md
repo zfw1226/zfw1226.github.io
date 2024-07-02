@@ -102,7 +102,7 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 ***Advances in Neural Information Processing Systems (NeurIPS), 2022***
 
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
-[Paper](https://arxiv.org/pdf/2209.00853.pdf),______
+[Paper](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
 - A framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
@@ -148,7 +148,7 @@ Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 ***International Conference on Learning Representations (ICLR), 2022***
 
-[Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/mate?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
+[Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/ToM2C?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
 - A Target-oriented Multi-agent Communication and Cooperation mechanism using Theory of Mind. 
 </div>
 </div>
@@ -183,7 +183,7 @@ Jing Xu*, **Fangwei Zhong**\*, Yizhou Wang
 
 [Project](https://sites.google.com/view/hit-mac),
 [Paper](https://proceedings.neurips.cc/paper/2020/file/7250eb93b3c18cc9daa29cf58af7a004-Paper.pdf), 
-[Code ![code](https://img.shields.io/github/stars/XuJing1022/HiT-MAC?style=social&label=Code+Stars)](https://github.com/XuJing1022/HiT-MAC),
+[Code ![code](https://img.shields.io/github/stars/XuJing1022/HiT-MAC?style=social&label=Code+Stars)](https://github.com/XuJing1022/HiT-MAC)
 - a Hierarchical Target-oriented Multi-Agent Coordination (HiT-MAC), which decomposes the target coverage problem into two-level tasks: targets assignment by a coordinator and tracking assigned targets by executors. 
 </div>
 </div>
