@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.07* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2404.09857) about Embodied Visual Tracking was accepted by ECCV'24.
 - *2024.05* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2402.02468) about Peer Adaption was accepted by ICML'24.
 - *2024.01* &nbsp;🎉🎉 One [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4437059) about Heterogeneous Multi-agent Cooperation was accepted by Neural Networks.
 - *2023.12* &nbsp;🎉🎉 One [paper](https://drive.google.com/file/d/18MTVr8_vGrTrNStbF7GsoluVW-tWzuWQ/view) about Adaptive Multi-Agent Systems was accepted by [AAAI 2024 CMASDL Workshop](https://www.is3rlab.org/aaai24-cmasdl-workshop.github.io/).
