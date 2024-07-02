@@ -24,7 +24,7 @@ My current research interests are robot learning, multi-agent learning, and comp
 
 {% include_relative includes/news.md %}
 
-{% include_relative includes/pub_selected.md %}
+{% include_relative includes/pub.md %}
 
 {% include_relative includes/honers.md %}
 

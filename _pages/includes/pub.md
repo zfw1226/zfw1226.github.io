@@ -2,6 +2,36 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/publication/eccv2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**
+
+**Fangwei Zhong**, Kui Wu, Hai Ci, Churan Wang, Hao Chen
+
+***The 18th European Conference on Computer Vision (ECCV), 2024***
+
+[Project](https://sites.google.com/view/offline-evt), 
+[Paper](https://arxiv.org/pdf/2404.09857)
+- Significantly improved the training efficiency and generalization of embodied visual tracking with visual foundation models and offline RL.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/publication/icml24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fast Peer Adaptation with Context-aware Exploration**
+
+Long Ma, Yuanfei Wang, **Fangwei Zhong&#x2709;**, Song-Chun Zhu, Yizhou Wang
+
+***International Conference on Machine Learning (ICML), 2024***
+
+[Project](https://sites.google.com/view/peer-adaptation), 
+[Paper](https://arxiv.org/pdf/2402.02468)
+- Learn a context-aware policy with a peer identification reward to effectively explore and quickly adapt to unknown peers. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ral23.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
