@@ -17,10 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working as Boya Postdoctoral Researcher at Peking University with Prof. [Song-Chun Zhu](http://www.stat.ucla.edu/~sczhu/).
-Before that, I received Ph.D in Computer Science from EECS, Peking University, supervised by Prof. [Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), and received B.Sc in Communication Engineering from Beijing Jiaotong University.
+Currently, I am an Associate Professor at the School of Artificial Intelligence, Beijing Normal University.
+Prior to this, I served as a Boya Postdoctoral Researcher at Peking University, where I collaborated with [Prof. Song-Chun Zhu](https://zhusongchun.net/).
+I earned my Ph.D. in Computer Science from the School of EECS at Peking University, supervised by [Prof. Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), 
+and obtained my bachelor's degree in Communication Engineering from Beijing Jiaotong University.
 
-My current research interests are robot learning, multi-agent learning, and computer vision, particularly in building embodied agents with physical and social common sense.
+My research interests are embodied AI and multi-agent system, particularly in building cognition-inspired agents with physical and social common sense.
 
 {% include_relative includes/news.md %}
 
