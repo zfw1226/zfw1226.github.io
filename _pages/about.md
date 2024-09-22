@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am an Associate Professor at the School of Artificial Intelligence, Beijing Normal University.
-Prior to this, I served as a Boya Postdoctoral Researcher at Peking University, where I collaborated with [Prof. Song-Chun Zhu](https://zhusongchun.net/).
-I earned my Ph.D. in Computer Science from the School of EECS at Peking University, supervised by [Prof. Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), 
-and obtained my bachelor's degree in Communication Engineering from Beijing Jiaotong University.
+I am an Associate Professor at the School of Artificial Intelligence, Beijing Normal University.
+Prior to this, I served as a Boya Postdoc at Peking University, working with [Prof. Song-Chun Zhu](https://zhusongchun.net/).
+I received my PhD in Computer Science from the School of EECS at Peking University, where I was advised by [Prof. Yizhou Wang](https://cfcs.pku.edu.cn/wangyizhou/#../../../english/index.htm), 
+and I obtained my bachelor's degree in Communication Engineering from Beijing Jiaotong University.
 
 My research interests are embodied AI and multi-agent system, particularly in building cognition-inspired agents with physical and social common sense.
 
