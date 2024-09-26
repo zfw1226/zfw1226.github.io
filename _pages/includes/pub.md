@@ -2,12 +2,27 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publication/neurips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy**
+
+**Fangwei Zhong**, Kui Wu, Hai Ci, Churan Wang, Hao Chen
+
+***Advances in Neural Information Processing Systems (NeurIPS), 2024***
+
+[Project](), 
+[Paper](https://arxiv.org/pdf/2407.06813)
+-  A LLM-based social agent that can solve the game of AI Diplomacy only by self-play, without fine-tuning or regularizing on human data.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/publication/eccv2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL**
 
-**Fangwei Zhong**, Kui Wu, Hai Ci, Churan Wang, Hao Chen
+**Fangwei Zhong**\*, Kui Wu\*, Hai Ci, Churan Wang, Hao Chen
 
 ***The 18th European Conference on Computer Vision (ECCV), 2024***
 
