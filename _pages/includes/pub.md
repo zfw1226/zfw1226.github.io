@@ -7,7 +7,7 @@
 
 **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy**
 
-**Fangwei Zhong**, Kui Wu, Hai Ci, Churan Wang, Hao Chen
+Zhenyu Guan, Xiangyu Kong&#x2709;, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***Advances in Neural Information Processing Systems (NeurIPS), 2024***
 
