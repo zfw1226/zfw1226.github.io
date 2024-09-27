@@ -2,7 +2,7 @@
 
 \* : co-first author, &#x2709; : corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publication/neurips2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publication/Richelieu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy**
