@@ -1,4 +1,7 @@
 # 🔥 News
+- *2024.12*: Serve as an Area Chair for ICML 2025.
+- *2024.11*: Talk at [PKU Workshop on Cognitive Reasoning 2024](https://www.ai.pku.edu.cn/info/1086/3053.htm) in Beijing.
+- *2024.10*: Tutorial on "Multi-agent reinforcement learning" at RLChina in Guanzhou, [Video](https://www.bilibili.com/video/BV15yBeYWEPA/?spm_id_from=333.999.0.0).
 - *2024.09* &nbsp;🎉🎉 Two papers were accepted to NeurIPS 24, with one selected as a highlighted paper.
 - *2024.07* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2404.09857) about Embodied Visual Tracking was accepted by ECCV'24.
 - *2024.05* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2402.02468) about Peer Adaption was accepted by ICML'24.
