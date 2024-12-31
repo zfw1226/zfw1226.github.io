@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.12*: We released [UnrealZoo](http://unrealzoo.site/), a collection of virtual worlds integrated [UnrealCV](https://unrealcv.org/) for embodied AI.
 - *2024.12*: Serve as an Area Chair for ICML 2025.
 - *2024.11*: Talk at [PKU Workshop on Cognitive Reasoning 2024](https://www.ai.pku.edu.cn/info/1086/3053.htm) in Beijing.
 - *2024.10*: Tutorial on "Multi-agent reinforcement learning" at RLChina in Guanzhou, [Video](https://www.bilibili.com/video/BV15yBeYWEPA/?spm_id_from=333.999.0.0).
