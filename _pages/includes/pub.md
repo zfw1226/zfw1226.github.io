@@ -1,3 +1,19 @@
+# 📝 Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/adv_grasph.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Grasparl: Dynamic Grasping via Adversarial Reinforcement Learning**
+
+Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizhou Wang, Hao Dong
+
+***ArXiv preprint, 2022***
+
+[Paper](https://arxiv.org/pdf/2203.02119)
+- Learning to grasp moving objects with vision observation via adversarial RL.
+</div>
+</div>
+
 # 📝 Publications 
 
 \* : co-first author, &#x2709; : corresponding author
@@ -11,9 +27,25 @@ Zhenyu Guan, Xiangyu Kong&#x2709;, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***Advances in Neural Information Processing Systems (NeurIPS), 2024***
 
-[Project](), 
-[Paper](https://arxiv.org/pdf/2407.06813)
+[Project](https://sites.google.com/view/richelieu-diplomacy), 
+[Paper](https://openreview.net/pdf?id=7Jb4NJS8Yk)
 -  A LLM-based social agent that can solve the game of AI Diplomacy only by self-play, without fine-tuning or regularizing on human data.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publication/usim.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Fine-Tuning Out-of-Vocabulary Item Recommendation with User Sequence Imagination**
+
+Ruochen Liu, Hao Chen, Yuanchen Bei, Qijie Shen, **Fangwei Zhong**, Senzhang Wang, Jianxin Wang
+
+***Advances in Neural Information Processing Systems (NeurIPS), 2024 <span style="color:red">(Spotlight)</span>***
+
+[Paper](https://openreview.net/pdf?id=JyWAFGCJPl)
+- A novel User Sequence IMagination (USIM) fine-tuning framework that first
+imagines the user sequences and then refines the generated OOV embeddings
+with the user behavioral embeddings.
 </div>
 </div>
 
@@ -37,13 +69,27 @@ Zhenyu Guan, Xiangyu Kong&#x2709;, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **Fast Peer Adaptation with Context-aware Exploration**
 
-Long Ma, Yuanfei Wang, **Fangwei Zhong&#x2709;**, Song-Chun Zhu, Yizhou Wang
+Long Ma\*, Yuanfei Wang\*, **Fangwei Zhong&#x2709;**, Song-Chun Zhu, Yizhou Wang
 
 ***International Conference on Machine Learning (ICML), 2024***
 
 [Project](https://sites.google.com/view/peer-adaptation), 
 [Paper](https://arxiv.org/pdf/2402.02468)
 - Learn a context-aware policy with a peer identification reward to effectively explore and quickly adapt to unknown peers. 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE T-PAMI</div><img src='images/publication/bi-dexhands.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bi-dexhands: Towards Human-level Bimanual Dexterous Manipulation**
+
+Yuanpei Chen, Yiran Geng, **Fangwei Zhong**, Jiaming Ji, Jiechuang Jiang, Zongqing Lu, Hao Dong, Yaodong Yang
+
+***IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE T-PAMI), 2023***
+
+[Paper](https://ieeexplore.ieee.org/abstract/document/10343126), [Code ![code](https://img.shields.io/github/stars/PKU-MARL/DexterousHands?style=social&label=Code+Stars)](https://github.com/PKU-MARL/DexterousHands)
+- A collection of bimanual dexterous manipulations tasks and reinforcement learning algorithms.
 </div>
 </div>
 
