@@ -1,5 +1,33 @@
 # 📝 Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**
+
+**Fangwei Zhong**\* &#x2709;, Kui Wu\*, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang
+
+***ArXiv preprint, 2024***
+
+[Project](http://unrealzoo.site/), [Paper](https://arxiv.org/abs/2412.20977), [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/UnrealZoo/unrealzoo-gym)
+- A rich collection of photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of the open worlds.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/d2a.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Simulating Human-like Daily Activities with Desire-driven Autonomy**
+
+Yiding Wang\*, Yuxuan Chen\*, **Fangwei Zhong**&#x2709;, Long Ma, Yizhou Wang
+
+***ArXiv preprint, 2024***
+
+[Project](https://sites.google.com/view/desire-driven-autonomy), [Paper](https://arxiv.org/abs/2412.06435), [Code](https://github.com/zfw1226/D2A)
+- A desire-driven autonomy framework to guide LLM-based agents to simulate human-like daily activities in text-based environments.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/adv_grasp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
