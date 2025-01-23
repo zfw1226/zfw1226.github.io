@@ -1,4 +1,5 @@
 # 🔥 News
+- *2024.07* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2412.06435) about autonomous agents was accepted by ICLR'25.
 - *2024.12*: We released [UnrealZoo](http://unrealzoo.site/), a collection of virtual worlds integrated [UnrealCV](https://unrealcv.org/) for embodied AI.
 - *2024.12*: Serve as an Area Chair for ICML 2025.
 - *2024.11*: Talk at [PKU Workshop on Cognitive Reasoning 2024](https://www.ai.pku.edu.cn/info/1086/3053.htm) in Beijing.

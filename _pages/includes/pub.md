@@ -14,20 +14,6 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/d2a.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Simulating Human-like Daily Activities with Desire-driven Autonomy**
-
-Yiding Wang\*, Yuxuan Chen\*, **Fangwei Zhong**&#x2709;, Long Ma, Yizhou Wang
-
-***ArXiv preprint, 2024***
-
-[Project](https://sites.google.com/view/desire-driven-autonomy), [Paper](https://arxiv.org/abs/2412.06435), [Code](https://github.com/zfw1226/D2A)
-- A desire-driven autonomy framework to guide LLM-based agents to simulate human-like daily activities in text-based environments.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/adv_grasp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -45,6 +31,19 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 # 📝 Publications 
 
 \* : co-first author, &#x2709; : corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publication/d2a.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Simulating Human-like Daily Activities with Desire-driven Autonomy**
+
+Yiding Wang\*, Yuxuan Chen\*, **Fangwei Zhong**&#x2709;, Long Ma, Yizhou Wang
+
+***International Conference on Learning Representations (ICLR), 2025***
+
+[Project](https://sites.google.com/view/desire-driven-autonomy), [Paper](https://arxiv.org/abs/2412.06435), [Code](https://github.com/zfw1226/D2A)
+- A desire-driven autonomy framework to guide LLM-based agents to simulate human-like daily activities in text-based environments.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/publication/Richelieu.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
