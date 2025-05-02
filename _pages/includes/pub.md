@@ -32,6 +32,19 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publication/icml25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Behavior-agnostic Task Inference for Robust Offline In-context Reinforcement Learning**
+
+Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
+
+***International Conference on Machine Learning (ICML), 2025***
+
+[Project](https://sites.google.com/view/desire-driven-autonomy), [Paper](https://arxiv.org/abs/2412.06435), [Code](https://github.com/zfw1226/D2A)
+- A model-based task inference method that is robust to the changes of in-context behavior for offline RL.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/publication/d2a.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Simulating Human-like Daily Activities with Desire-driven Autonomy**
