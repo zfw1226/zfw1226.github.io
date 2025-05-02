@@ -1,4 +1,6 @@
 # 🔥 News
+- *2025.05* &nbsp;🎉🎉 One paper about offline in-context RL was accepted by ICML'25, congratulations to Long Ma.
+- *2025.03*: Serve as the Chair of the Challenge Committee at [ATEC 2025 Competition](https://www.atecup.cn/competitions/100009).
 - *2025.01* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2412.06435) about autonomous agents was accepted by ICLR'25.
 - *2024.12*: We released [UnrealZoo](http://unrealzoo.site/), a collection of virtual worlds integrated [UnrealCV](https://unrealcv.org/) for embodied AI.
 - *2024.12*: Serve as an Area Chair for ICML 2025.
