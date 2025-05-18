@@ -32,6 +32,34 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/publication/ACL25_main.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games**
+
+Shuhang Xu, **Fangwei Zhong&#x2709;**
+
+***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Main)***
+
+[Project](), [Paper](), [Code]()
+- A self-improving reasoning framework that enables LLM-based agents to engage in metaphor processing on Undercover and Adversarial Taboo.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/publication/ACL25_findings.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+**Are the Values of LLMs Structurally Aligned with Humans? A Causal Perspective**
+
+Yipeng Kang, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Hengli Li, Tingjun Wu, Xue Feng, **Fangwei Zhong**, Zilong Zheng&#x2709;
+
+***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Findings)***
+
+[Paper](https://arxiv.org/abs/2501.00581)
+- Discovering the latent causal structure of the values in LLMs.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/publication/icml25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **Behavior-agnostic Task Inference for Robust Offline In-context Reinforcement Learning**

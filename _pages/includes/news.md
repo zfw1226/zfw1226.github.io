@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.05* &nbsp;🎉🎉 Two papers were accepted by ACL'25 (1 main and 1 findings), congratulations to Shuhang and Yipeng.
 - *2025.05* &nbsp;🎉🎉 One paper about offline in-context RL was accepted by ICML'25, congratulations to Long Ma.
 - *2025.03*: Serve as the Chair of the Challenge Committee at [ATEC 2025 Competition](https://www.atecup.cn/competitions/100009).
 - *2025.01* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2412.06435) about autonomous agents was accepted by ICLR'25.
@@ -16,8 +17,13 @@
 - *2023.11*: &nbsp;🎉🎉 One paper about Bimanual Dexterous Manipulation was accepted by [IEEE T-PAMI](https://ieeexplore.ieee.org/abstract/document/10343126).
 - *2023.10*: &nbsp;🎉🎉 Honored to receive the [Tencent Rhino-Bird Outstanding Mentor Award](https://ur.tencent.com/article/1462).
 - *2023.07*: Talk at [ACM TURC 2023 Symposiums (SIGAI China)](https://www.acmturc.com/2023/en/SIGAI_China.html) in Wuhan.
-- *2023.07*: &nbsp;🎉🎉 One [paper](https://github.com/PKU-Alignment/ReDMan) was accepted by Machine Learning (Journal). 
-- *2023.05*: Talk at [CVG group](https://cvg.ethz.ch/) in ETH Zurich (Online).
-- *2023.04*: &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2304.10773) about Visual-audio Navigation was accepted by IEEE RA-L. 
-- *2023.02*: &nbsp;🎉🎉 One [paper]((https://arxiv.org/abs/2212.08641)) about 3D Human Pose Prior was accepted by CVPR'23. 
-- *2023.01*: &nbsp;🎉🎉 One [paper](https://openreview.net/pdf?id=CPIy9TWFYBG) about Proactive Multi-Camera Collaboration was accepted by ICLR'23. 
+
+[//]: # (- *2023.07*: &nbsp;🎉🎉 One [paper]&#40;https://github.com/PKU-Alignment/ReDMan&#41; was accepted by Machine Learning &#40;Journal&#41;. )
+
+[//]: # (- *2023.05*: Talk at [CVG group]&#40;https://cvg.ethz.ch/&#41; in ETH Zurich &#40;Online&#41;.)
+
+[//]: # (- *2023.04*: &nbsp;🎉🎉 One [paper]&#40;https://arxiv.org/abs/2304.10773&#41; about Visual-audio Navigation was accepted by IEEE RA-L. )
+
+[//]: # (- *2023.02*: &nbsp;🎉🎉 One [paper]&#40;&#40;https://arxiv.org/abs/2212.08641&#41;&#41; about 3D Human Pose Prior was accepted by CVPR'23. )
+
+[//]: # (- *2023.01*: &nbsp;🎉🎉 One [paper]&#40;https://openreview.net/pdf?id=CPIy9TWFYBG&#41; about Proactive Multi-Camera Collaboration was accepted by ICLR'23. )
