@@ -1,5 +1,49 @@
 # 📝 Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/ck_arena.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Probe by Gaming: A Game-based Benchmark for Assessing Conceptual Knowledge in LLMs**
+
+Shuhang Xu, Weijing Deng, Yixuan Zhou, **Fangwei Zhong&#x2709;**
+
+***ArXiv preprint, 2025***
+
+[Project](https://ck-arena.site/), [Paper](https://arxiv.org/pdf/2505.17512)
+- A scalable and game-based benchmark for assessing the built-in conceptual knowledge of LLMs.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/hievt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Instruction-aware Embodied Visual Tracking**
+
+Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
+
+***ArXiv preprint, 2025***
+
+[Project](https://sites.google.com/view/hievt), [Paper](https://arxiv.org/abs/2505.20710)
+- A hierarchical framework that combines LLM-based semantic-spatial goal aligner and RL-based adaptive goal-aligned policy for user-centric embodied visual tracking.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/vlm_track.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**
+
+Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
+
+***ArXiv preprint, 2025***
+
+[Project](https://sites.google.com/view/evt-recovery-assistant), [Paper](https://arxiv.org/abs/2505.20718)
+- A self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to recover tracking from failure.
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -40,7 +84,7 @@ Shuhang Xu, **Fangwei Zhong&#x2709;**
 
 ***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Main)***
 
-[Project](), [Paper](), [Code]()
+[Paper](https://www.arxiv.org/abs/2505.18218), [Code](https://github.com/Yeswolo/CoMet)
 - A self-improving reasoning framework that enables LLM-based agents to engage in metaphor processing on Undercover and Adversarial Taboo.
 </div>
 </div>
