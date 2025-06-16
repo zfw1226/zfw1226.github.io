@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.06* &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2505.20718) about self-improving VLM was accepted by IROS 2025, congratulations to Kui.
 - *2025.05* &nbsp;🎉🎉 Two papers were accepted by ACL'25 (1 main and 1 findings), congratulations to Shuhang and Yipeng.
 - *2025.05* &nbsp;🎉🎉 One paper about offline in-context RL was accepted by ICML'25, congratulations to Long Ma.
 - *2025.03*: Serve as the Chair of the Challenge Committee at [ATEC 2025 Competition](https://www.atecup.cn/competitions/100009).

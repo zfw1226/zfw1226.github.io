@@ -29,20 +29,6 @@ Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, **Fangwei
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/vlm_track.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**
-
-Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
-
-***ArXiv preprint, 2025***
-
-[Project](https://sites.google.com/view/evt-recovery-assistant), [Paper](https://arxiv.org/abs/2505.20718)
-- A self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to recover tracking from failure.
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -75,6 +61,20 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 # 📝 Publications 
 
 \* : co-first author, &#x2709; : corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/publication/vlm_track.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLM Can Be a Good Assistant: Enhancing Embodied Visual Tracking with Self-Improving Vision-Language Models**
+
+Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
+
+***The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) ***
+
+[Project](https://sites.google.com/view/evt-recovery-assistant), [Paper](https://arxiv.org/abs/2505.20718)
+- A self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to recover tracking from failure.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/publication/ACL25_main.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
