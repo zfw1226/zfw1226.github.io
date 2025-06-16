@@ -69,7 +69,7 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
 
-***The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2025) ***
+***The 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025***
 
 [Project](https://sites.google.com/view/evt-recovery-assistant), [Paper](https://arxiv.org/abs/2505.20718)
 - A self-improving framework that enhances Embodied Visual Tracking (EVT) with Vision-Language Models (VLMs) to recover tracking from failure.
