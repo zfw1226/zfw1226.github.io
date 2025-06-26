@@ -29,21 +29,6 @@ Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, **Fangwei
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**
-
-**Fangwei Zhong**\* &#x2709;, Kui Wu\*, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang
-
-***ArXiv preprint, 2024***
-
-[Project](http://unrealzoo.site/), [Paper](https://arxiv.org/abs/2412.20977), [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/UnrealZoo/unrealzoo-gym)
-- A rich collection of photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of the open worlds.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/adv_grasp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -61,6 +46,20 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 # 📝 Publications 
 
 \* : co-first author, &#x2709; : corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**
+
+**Fangwei Zhong**\* &#x2709;, Kui Wu\*, Churan Wang, Hao Chen, Hai Ci, Zhoujun Li, Yizhou Wang
+
+***International Conference on Computer Vision (ICCV), 2025***
+
+[Project](http://unrealzoo.site/), [Paper](https://arxiv.org/abs/2412.20977), [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/UnrealZoo/unrealzoo-gym)
+- A rich collection of photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of the open worlds.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/publication/vlm_track.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -82,7 +81,7 @@ Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, **Fangwei Zh
 
 Shuhang Xu, **Fangwei Zhong&#x2709;**
 
-***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Main)***
+***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Main)*** <span style="color:red">(Oral)</span>
 
 [Paper](https://www.arxiv.org/abs/2505.18218), [Code](https://github.com/Yeswolo/CoMet)
 - A self-improving reasoning framework that enables LLM-based agents to engage in metaphor processing on Undercover and Adversarial Taboo.
