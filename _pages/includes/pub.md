@@ -47,7 +47,7 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> 2025</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**
