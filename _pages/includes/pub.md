@@ -111,7 +111,7 @@ Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***International Conference on Machine Learning (ICML), 2025***
 
-[Project](), [Paper](), [Code]()
+[Project](https://sites.google.com/view/bati-icrl), [Paper](https://openreview.net/pdf?id=jMKaATBEKb)
 - A model-based task inference method that is robust to the changes of in-context behavior for offline RL.
 </div>
 </div>
