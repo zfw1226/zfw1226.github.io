@@ -81,7 +81,7 @@ Kui Wu, Shuhang Xu, Hao Chen, Churan Wang, Zhoujun Li, Yizhou Wang, **Fangwei Zh
 
 Shuhang Xu, **Fangwei Zhong&#x2709;**
 
-***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Main, <span style="color:red">Oral</span>)
+***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Main, <span style="color:red">Oral</span>)***
 
 [Paper](https://www.arxiv.org/abs/2505.18218), [Code](https://github.com/Yeswolo/CoMet)
 - A self-improving reasoning framework that enables LLM-based agents to engage in metaphor processing on Undercover and Adversarial Taboo.
