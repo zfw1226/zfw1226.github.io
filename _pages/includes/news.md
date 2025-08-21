@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.08*: Serve as an Area Chair for ICLR 2026.
 - *2025.08* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2505.23189) was accepted by CoRL 2025.
 - *2025.07* &nbsp;🏆 CoMet received the ACL 2025 SAC Highlight Award.
 - *2025.06* &nbsp;🎉🎉 [UnrealZoo](http://unrealzoo.site/) was accepted by ICCV 2025, CoMet was selected for an oral presentation at ACL.
@@ -20,7 +21,8 @@
 - *2023.11*: Guest lecture about Utility at PKU [Cognitive Reasoning](https://yzhu.io/courses/core/), hosted by [Yixin Zhu](https://yzhu.io/).
 - *2023.11*: &nbsp;🎉🎉 One paper about Bimanual Dexterous Manipulation was accepted by [IEEE T-PAMI](https://ieeexplore.ieee.org/abstract/document/10343126).
 - *2023.10*: &nbsp;🎉🎉 Honored to receive the [Tencent Rhino-Bird Outstanding Mentor Award](https://ur.tencent.com/article/1462).
-- *2023.07*: Talk at [ACM TURC 2023 Symposiums (SIGAI China)](https://www.acmturc.com/2023/en/SIGAI_China.html) in Wuhan.
+
+[//]: # (- *2023.07*: Talk at [ACM TURC 2023 Symposiums &#40;SIGAI China&#41;]&#40;https://www.acmturc.com/2023/en/SIGAI_China.html&#41; in Wuhan.)
 
 [//]: # (- *2023.07*: &nbsp;🎉🎉 One [paper]&#40;https://github.com/PKU-Alignment/ReDMan&#41; was accepted by Machine Learning &#40;Journal&#41;. )
 
