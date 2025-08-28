@@ -10,7 +10,7 @@ Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
 ***ArXiv preprint, 2025***
 
 [Paper](https://arxiv.org/pdf/2508.13070)
-- A novel RL-based self-supervised training paradigm to extract adaptive, data-dependent token generation orders
+- A novel self-supervised training paradigm to overcome the order dependence in the next-token prediction paradigm via reinforcement learning.
 </div>
 </div>
 
