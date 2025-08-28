@@ -1,5 +1,19 @@
 # 📝 Preprints
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/recor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reinforced Context Order Recovery for Adaptive Reasoning and Planning**
+
+Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
+
+***ArXiv preprint, 2025***
+
+[Paper](https://arxiv.org/pdf/2508.13070)
+- A novel RL-based self-supervised training paradigm to extract adaptive, data-dependent token generation orders
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/ck_arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
