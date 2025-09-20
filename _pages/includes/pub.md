@@ -1,19 +1,5 @@
 # 📝 Preprints
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/recor.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Reinforced Context Order Recovery for Adaptive Reasoning and Planning**
-
-Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
-
-***ArXiv preprint, 2025***
-
-[Paper](https://arxiv.org/pdf/2508.13070)
-- A novel self-supervised training paradigm to overcome the order dependence in the next-token prediction paradigm via reinforcement learning.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/ck_arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,6 +46,20 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 # 📝 Publications 
 
 \* : co-first author, &#x2709; : corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publication/recor.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reinforced Context Order Recovery for Adaptive Reasoning and Planning**
+
+Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
+
+***Advances in Neural Information Processing Systems (NeurIPS), 2025***
+
+[Paper](https://arxiv.org/pdf/2508.13070)
+- A novel self-supervised training paradigm to overcome the order dependence in the next-token prediction paradigm via reinforcement learning.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
