@@ -1,4 +1,6 @@
 # 🎖 Selected Honors and Awards
+- *2025.09* ACM SIGAI China Rising Star Award.
+- *2025.07* ACL 2025 SAC Highlight Award (for CoMet).
 - *2023.10* Tencent Rhino-Bird Outstanding Mentor Award.
 - *2021.09* ACM China SIGAI Doctoral Dissertation Award.
 - *2021.06* China National Postdoctoral Program for Innovative Talents.
