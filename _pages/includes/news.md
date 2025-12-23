@@ -1,4 +1,8 @@
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 One paper about value-driven agents was accepted by AAMAS 2026 (Oral), congratulations to Jingzhe.
+- *2025.11*: &nbsp;🎉🎉 Two papers were accepted by NeurIPS 2025 Workshops, congratulations to Shuhang and Hengbin.
+- *2025.10*: Server as an Area Chair for ICML 2026 and Co-Session Chair for IROS 2025.
+- *2025.09*: Serve as an Area Chair for AISTATS 2026.
 - *2025.09*: &nbsp;🎉🎉 Honored to receive the ACM SIGAI China Rising Star Award.
 - *2025.09*: Tutorial on "Multi-agent Interaction", RLChina@Tsinghua University.
 - *2025.09*: &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2508.13070) about reinforced token prediction was accepted by NeurIPS 2025, congratulations to Long Ma.
