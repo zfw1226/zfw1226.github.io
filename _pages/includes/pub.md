@@ -56,7 +56,7 @@ Jingzhe Lin, Ceyao Zhang, Yaodong Yang, Yizhou Wang, Song-Chun Zhu, **Fangwei Zh
 
 ***International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026 <span style="color:red">(Oral)</span>***
 
-[Paper](https://arxiv.org/abs/2603.13890)
+[Project](https://asvo-agents.github.io/ASVO-agents/), [Code](https://github.com/jingzhe-lin/ASVO), [Paper](https://arxiv.org/abs/2603.13890)
 - A LLM-based agent framework integrating desire-driven autonomy with Social Value Orientation (SVO) theory for simulating human-like social interactions.
 </div>
 </div>
