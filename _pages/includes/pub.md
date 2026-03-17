@@ -47,6 +47,20 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/publication/asvo.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Beyond Self-Interest: Modeling Social-Oriented Motivation for Human-like Multi-Agent Interactions**
+
+Jingzhe Lin, Ceyao Zhang, Yaodong Yang, Yizhou Wang, Song-Chun Zhu, **Fangwei Zhong&#x2709;**
+
+***International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2026 <span style="color:red">(Oral)</span>***
+
+[Paper](https://arxiv.org/abs/2603.13890)
+- A LLM-based agent framework integrating desire-driven autonomy with Social Value Orientation (SVO) theory for simulating human-like social interactions.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/publication/recor.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
