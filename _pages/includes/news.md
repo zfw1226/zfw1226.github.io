@@ -1,5 +1,4 @@
 # 🔥 News
-- *2026.03*: Serve as an Area Chair for NeurIPS 2026.
 - *2025.12*: &nbsp;🎉🎉 One paper about value-driven agents was accepted by AAMAS 2026 (Oral), congratulations to Jingzhe.
 - *2025.11*: &nbsp;🎉🎉 Two papers were accepted by NeurIPS 2025 Workshops, congratulations to Shuhang and Hengbin.
 - *2025.10*: Server as an Area Chair for ICML 2026 and Co-Session Chair for IROS 2025.
