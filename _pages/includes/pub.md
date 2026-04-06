@@ -50,7 +50,7 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_desire_alignment.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Communication-Efficient Desire Alignment for Cooperative Multi-Agent Reinforcement Learning with Foundation Models**
+**Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction**
 
 Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
 
