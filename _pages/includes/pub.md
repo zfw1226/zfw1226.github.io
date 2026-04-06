@@ -66,7 +66,7 @@ Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei
 
 **An LLM-based Agent Simulation Approach to the Study of Moral Evolution**
 
-Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou Sun, Ying Nian Wu, Demetri Terzopoulos, **Fangwei Zhong**
+Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou Sun, Ying Nian Wu, Demetri Terzopoulos, **Fangwei Zhong**&#x2709;
 
 ***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
 
@@ -94,7 +94,7 @@ Ziheng Zhou, Jiakun Ding, Zhaowei Zhang, Ruosen Gao, Yingnian Wu, Demetri Terzop
 
 **How do Role Models Shape Collective Morality? Exemplar-Driven Moral Learning in Multi-Agent Simulation**
 
-Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong**
+Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong&#x2709;**
 
 ***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
 
