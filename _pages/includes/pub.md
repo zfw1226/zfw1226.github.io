@@ -47,16 +47,16 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_desire_alignment.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_desire_alignment.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction**
 
 Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 <span style="color:red">(Main Conference)</span>***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
 
-- Desire alignment for cooperative multi-agent RL with foundation models.
+- Communication-efficient desire alignment for proactive embodied agent-human interaction.
 </div>
 </div>
 
@@ -65,37 +65,40 @@ Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei
 
 **An LLM-based Agent Simulation Approach to the Study of Moral Evolution**
 
-Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou Sun, Ying Nian Wu, Demetri Terzopoulos, **Fangwei Zhong&#x2709;**
+Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou Sun, Ying Nian Wu, Demetri Terzopoulos, **Fangwei Zhong**
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 <span style="color:red">(Main Conference)</span>***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
 
-- LLM-based simulation framework for studying moral evolution in prehistoric societies.
+[Paper](https://arxiv.org/abs/2509.17703)
+- An LLM-based agent simulation framework modeling prehistoric hunter-gatherer societies to study moral evolution.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_assignment.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_assignment.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Simple Role Assignment is Extraordinarily Effective for Safety Alignment**
 
-Ziheng Zhou, Jiakun Ding, Zhaowei Zhang, Ruosen Gao, Yingnian Wu, Demetri Terzopoulos, Yipeng Kang, **Fangwei Zhong&#x2709;**, Junqi Wang
+Ziheng Zhou, Jiakun Ding, Zhaowei Zhang, Ruosen Gao, Yingnian Wu, Demetri Terzopoulos, Yipeng Kang, **Fangwei Zhong**, Junqi Wang
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 <span style="color:red">(Findings)</span>***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Findings)***
 
-- Training-free role assignment pipeline for effective multi-agent collaboration.
+[Paper](https://arxiv.org/abs/2602.00061)
+- A training-free role assignment pipeline grounded in Theory of Mind for safety alignment.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_models.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_models.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Do We Need Role Models? Exemplar-Driven Moral Learning in Multi-Agent Simulation**
 
-Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong&#x2709;**
+Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong**
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 <span style="color:red">(Main Conference)</span>***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
 
-- Multi-agent simulation exploring how role models shape collective morality.
+[Paper](https://arxiv.org/abs/2603.13876)
+- A multi-agent simulation exploring how role models shape collective morality through exemplar-driven learning.
 </div>
 </div>
 
@@ -574,5 +577,7 @@ Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, 
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
 [Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv),
 - An open-sourced project to help computer vision researchers build virtual worlds using Unreal Engine 4 (UE4).
+</div>
+</div>UE4).
 </div>
 </div>
