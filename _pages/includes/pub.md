@@ -56,6 +56,7 @@ Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei
 
 ***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
 
+[Paper](https://arxiv.org/abs/2505.22503)
 - Communication-efficient desire alignment for proactive embodied agent-human interaction.
 </div>
 </div>
