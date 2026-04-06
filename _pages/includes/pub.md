@@ -89,7 +89,7 @@ Ziheng Zhou, Jiakun Ding, Zhaowei Zhang, Ruosen Gao, Yingnian Wu, Demetri Terzop
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_models.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Do We Need Role Models? How RL Fine-Tuning Shapes an LLM's Self-Concept**
+**Do We Need Role Models? Exemplar-Driven Moral Learning in Multi-Agent Simulation**
 
 Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong&#x2709;**
 
