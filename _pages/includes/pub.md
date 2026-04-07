@@ -54,7 +54,7 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
 
 [Paper](https://arxiv.org/abs/2505.22503)
 - A novel FAMER framework for fast desire alignment with mental reasoning and reflection-based communication in embodied agent-human interaction.
@@ -68,7 +68,7 @@ Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei
 
 Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou Sun, Ying Nian Wu, Demetri Terzopoulos, **Fangwei Zhong**&#x2709;
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
 
 [Paper](https://arxiv.org/abs/2509.17703)
 - An LLM-based agent simulation framework modeling prehistoric hunter-gatherer societies to study moral evolution.
