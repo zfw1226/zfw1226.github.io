@@ -52,7 +52,7 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 **Communication-Efficient Desire Alignment for Proactive Embodied Human–Agent Interaction**
 
-Yuanfei Wang, Xinju Huang, **Fangwei Zhong**, Yaodong Yang, Yizhou Wang, Yuanpei Chen, Hao Dong
+Yuanfei Wang, Xinju Huang, **Fangwei Zhong**&#x2709;, Yaodong Yang, Yizhou Wang, Yuanpei Chen&#x2709;, Hao Dong&#x2709;
 
 ***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
 
@@ -70,7 +70,7 @@ Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou
 
 ***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, Oral)***
 
-[Paper](https://arxiv.org/abs/2509.17703)
+[Project](https://moralagentsim.github.io/), [Code](https://github.com/MoralAgentSim/Simulation-Engine), [Paper](https://arxiv.org/abs/2509.17703)
 - An LLM-based agent simulation framework modeling prehistoric hunter-gatherer societies to study moral evolution.
 </div>
 </div>
@@ -98,7 +98,7 @@ Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong&#x2709;**
 
 ***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
 
-[Paper](https://arxiv.org/abs/2603.13876)
+[Paper](https://arxiv.org/abs/2603.13876), [Code](https://github.com/MoralAgentSim/RoleModel-Moral-Sim)
 - A multi-agent simulation exploring how role models shape collective morality through exemplar-driven learning.
 </div>
 </div>
