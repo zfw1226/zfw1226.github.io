@@ -75,20 +75,6 @@ Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_assignment.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Simple Role Assignment is Extraordinarily Effective for Safety Alignment**
-
-Ziheng Zhou, Jiakun Ding, Zhaowei Zhang, Ruosen Gao, Yingnian Wu, Demetri Terzopoulos, Yipeng Kang, **Fangwei Zhong**, Junqi Wang
-
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Findings)***
-
-[Paper](https://arxiv.org/abs/2602.00061)
-- A training-free role assignment pipeline grounded in Theory of Mind for safety alignment.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_models.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -100,6 +86,20 @@ Junjie Liao, Huacong Tang, Ziheng Zhou, Yizhou Wang, **Fangwei Zhong&#x2709;**
 
 [Paper](https://arxiv.org/abs/2603.13876), [Code](https://github.com/MoralAgentSim/RoleModel-Moral-Sim)
 - A multi-agent simulation exploring how role models shape collective morality through exemplar-driven learning.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_role_assignment.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Simple Role Assignment is Extraordinarily Effective for Safety Alignment**
+
+Ziheng Zhou, Jiakun Ding, Zhaowei Zhang, Ruosen Gao, Yingnian Wu, Demetri Terzopoulos, Yipeng Kang, **Fangwei Zhong**, Junqi Wang
+
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Findings)***
+
+[Paper](https://arxiv.org/abs/2602.00061)
+- A training-free role assignment pipeline grounded in Theory of Mind for safety alignment.
 </div>
 </div>
 
