@@ -167,7 +167,7 @@ Shuhang Xu, **Fangwei Zhong&#x2709;**
 
 ***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (<span style="color:red">Oral, SAC Highlight Award</span>)***
 
-[Paper](https://www.arxiv.org/abs/2505.18218), [Code](https://github.com/Yeswolo/CoMet)
+[Paper](https://aclanthology.org/2025.acl-long.389/), [Code](https://github.com/Yeswolo/CoMet)
 - A self-improving reasoning framework that enables LLM-based agents to engage in metaphor processing on Undercover and Adversarial Taboo.
 </div>
 </div>
