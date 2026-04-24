@@ -126,7 +126,7 @@ Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***Advances in Neural Information Processing Systems (NeurIPS), 2025***
 
-[Paper](https://arxiv.org/pdf/2508.13070)
+[Paper](https://neurips.cc/virtual/2025/poster/116445)
 - A novel self-supervised training paradigm to overcome the order dependence in the next-token prediction paradigm via reinforcement learning.
 </div>
 </div>
