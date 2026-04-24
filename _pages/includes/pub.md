@@ -254,7 +254,7 @@ with the user behavioral embeddings.
 ***The 18th European Conference on Computer Vision (ECCV), 2024***
 
 [Project](https://sites.google.com/view/offline-evt), 
-[Paper](https://arxiv.org/pdf/2404.09857)
+[Paper](https://arxiv.org/pdf/2404.09857.pdf)
 - Significantly improved the training efficiency and generalization of embodied visual tracking with visual foundation models and offline RL.
 </div>
 </div>
@@ -341,9 +341,9 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **Fangwei Zhong**\*,  Xiao Bi\*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
 
-***Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023*** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data=''></span></strong>
+***Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023*** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>
 
-[Project](https://sites.google.com/view/aot-rspt), [Paper](https://arxiv.org/pdf/2304.03623v1.pdf)
+[Project](https://sites.google.com/view/aot-rspt), [Paper](https://arxiv.org/pdf/2304.03623.pdf)
 - A framework to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
 </div>
 </div>
@@ -404,7 +404,7 @@ Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 ***International Conference on Learning Representations (ICLR), 2022***
 
-[Paper](hhttps://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/ToM2C?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
+[Paper](https://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/ToM2C?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
 - A Target-oriented Multi-agent Communication and Cooperation mechanism using Theory of Mind. 
 </div>
 </div>
@@ -546,7 +546,7 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**, Wei Liu, Tong Zhang, Yizhou Wang
 [Training code](https://github.com/whluo/active_tracking_drl),
 [Gym-tvizdoom](https://bitbucket.org/pengsun000/gym-tvizdoom/src/master),
 [Gym-unrealcv](https://github.com/zfw1226/gym-unrealcv)
-- An end-to-end active objet tracking solution via deep reinforcement learning, where a ConvNet-LSTM function approximator is adopted for the direct frame-to-action prediction.
+- An end-to-end active object tracking solution via deep reinforcement learning, where a ConvNet-LSTM function approximator is adopted for the direct frame-to-action prediction.
 </div>
 </div>
 
@@ -576,7 +576,7 @@ Weichao Qiu, **Fangwei Zhong**, Yi Zhang, Siyuan Qiao, Zihao Xiao, Tae Soo Kim, 
 
 [Project](https://unrealcv.org/),
 [Paper](https://dl.acm.org/doi/pdf/10.1145/3123266.3129396),
-[Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv),
+[Code ![code](https://img.shields.io/github/stars/unrealcv/unrealcv?style=social&label=Code+Stars)](https://github.com/unrealcv/unrealcv)
 - An open-sourced project to help computer vision researchers build virtual worlds using Unreal Engine 4 (UE4).
 </div>
 </div>UE4).
