@@ -140,7 +140,7 @@ Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***International Conference on Computer Vision (ICCV), 2025 <span style="color:red">(Highlight)</span>***
 
-[Project](http://unrealzoo.site/), [Paper](https://arxiv.org/abs/2412.20977), [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/UnrealZoo/unrealzoo-gym)
+[Project](http://unrealzoo.site/), [Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhong_UnrealZoo_Enriching_Photo-realistic_Virtual_Worlds_for_Embodied_AI_ICCV_2025_paper.pdf), [Arxiv](https://arxiv.org/abs/2412.20977), [Code ![code](https://img.shields.io/github/stars/UnrealZoo/unrealzoo-gym?style=social&label=Code+Stars)](https://github.com/UnrealZoo/unrealzoo-gym)
 - A rich collection of photo-realistic 3D virtual worlds built on Unreal Engine, designed to reflect the complexity and variability of the open worlds.
 </div>
 </div>
