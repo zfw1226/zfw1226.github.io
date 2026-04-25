@@ -1,5 +1,6 @@
 # 🔥 News
-- *2026.04*: &nbsp;🎉🎉 **Four papers were accepted by ACL 2026** (3 Main + 1 Findings).
+- *2026.04*: &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2604.20305) about cross-embodiment active visual tracking was accepted by **IEEE RA-L**, congratulations to Kui.
+- *2026.04*: &nbsp;🎉🎉 Four papers were accepted by ACL 2026 (3 Main + 1 Findings).
 - *2025.12*: &nbsp;🎉🎉 One paper about value-driven agents was accepted by AAMAS 2026 (Oral), congratulations to Jingzhe.
 - *2025.11*: &nbsp;🎉🎉 Two papers were accepted by NeurIPS 2025 Workshops, congratulations to Shuhang and Hengbin.
 - *2025.10*: Server as an Area Chair for ICML 2026 and Co-Session Chair for IROS 2025.
