@@ -7,7 +7,7 @@
 - *2025.09*: Serve as an Area Chair for AISTATS 2026.
 - *2025.09*: &nbsp;🎉🎉 Honored to receive the ACM SIGAI China Rising Star Award.
 - *2025.09*: Tutorial on "Multi-agent Interaction", RLChina@Tsinghua University.
-- *2025.09*: &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2508.13070) about reinforced token prediction was accepted by NeurIPS 2025, congratulations to Long Ma.
+- *2025.09*: &nbsp;🎉🎉 One [paper](https://openreview.net/pdf?id=jbLLxhnoty) about reinforced token prediction was accepted by NeurIPS 2025, congratulations to Long Ma.
 - *2025.08*: Serve as an Area Chair for ICLR 2026.
 - *2025.08* &nbsp;🎉🎉 One [paper](https://arxiv.org/pdf/2505.23189) was accepted by CoRL 2025.
 - *2025.07* &nbsp;🏆 CoMet received the ACL 2025 SAC Highlight Award.
