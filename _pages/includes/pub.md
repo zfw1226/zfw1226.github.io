@@ -181,7 +181,7 @@ Yipeng Kang, Junqi Wang, Yexin Li, Mengmeng Wang, Wenming Tu, Quansen Wang, Heng
 
 ***The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025 (Findings)***
 
-[Paper](https://arxiv.org/abs/2501.00581)
+[Paper](https://aclanthology.org/2025.findings-acl.1188/), [Arxiv](https://arxiv.org/abs/2501.00581)
 - Discovering the latent causal structure of the values in LLMs.
 </div>
 </div>
@@ -208,7 +208,7 @@ Yiding Wang\*, Yuxuan Chen\*, **Fangwei Zhong**&#x2709;, Long Ma, Yizhou Wang
 
 ***International Conference on Learning Representations (ICLR), 2025***
 
-[Project](https://sites.google.com/view/desire-driven-autonomy), [Paper](https://arxiv.org/abs/2412.06435), [Code](https://github.com/zfw1226/D2A)
+[Project](https://sites.google.com/view/desire-driven-autonomy), [Paper](https://openreview.net/forum?id=3ms8EQY7f8), [Arxiv](https://arxiv.org/abs/2412.06435), [Code](https://github.com/zfw1226/D2A)
 - A desire-driven autonomy framework to guide LLM-based agents to simulate human-like daily activities in text-based environments.
 </div>
 </div>
@@ -254,7 +254,7 @@ with the user behavioral embeddings.
 ***The 18th European Conference on Computer Vision (ECCV), 2024***
 
 [Project](https://sites.google.com/view/offline-evt), 
-[Paper](https://arxiv.org/pdf/2404.09857.pdf)
+[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09241.pdf), [Arxiv](https://arxiv.org/pdf/2404.09857.pdf)
 - Significantly improved the training efficiency and generalization of embodied visual tracking with visual foundation models and offline RL.
 </div>
 </div>
@@ -269,7 +269,7 @@ Long Ma\*, Yuanfei Wang\*, **Fangwei Zhong&#x2709;**, Song-Chun Zhu, Yizhou Wang
 ***International Conference on Machine Learning (ICML), 2024***
 
 [Project](https://sites.google.com/view/peer-adaptation), 
-[Paper](https://arxiv.org/pdf/2402.02468)
+[Paper](https://proceedings.mlr.press/v235/ma24n.html), [Arxiv](https://arxiv.org/pdf/2402.02468)
 - Learn a context-aware policy with a peer identification reward to effectively explore and quickly adapt to unknown peers. 
 </div>
 </div>
@@ -297,7 +297,7 @@ Hongcheng Wang\*, Yuxuan Wang\*, **Fangwei Zhong**, Mingdong Wu, Yizhou Wang, Ji
 
 ***IEEE Robotics and Automation Letters (RA-L), 2023***
 
-[Paper](https://arxiv.org/abs/2304.10773), [Demo](https://www.youtube.com/watch?v=cbNHeKjo3k4)
+[Paper](https://ieeexplore.ieee.org/document/10114576), [Demo](https://www.youtube.com/watch?v=cbNHeKjo3k4)
 - A brain-inspired plug-and-play method to learn a semantic-agnostic and spatial-aware representation for generalizable visual-audio navigation.
 </div>
 </div>
@@ -312,7 +312,7 @@ Hai Ci, Mingdong Wu, Wentao Zhu, Xiaoxuan Ma, Hao Dong, **Fangwei Zhong&#x2709;*
 ***Proc. of the IEEE/CVF Conf. on Computer Vision and Pattern Recognition (CVPR), 2023***
 
 [Project](https://sites.google.com/view/gfpose/) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>, 
-[Paper](https://arxiv.org/abs/2212.08641),
+[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ci_GFPose_Learning_3D_Human_Pose_Prior_With_Gradient_Fields_CVPR_2023_paper.html), [Arxiv](https://arxiv.org/abs/2212.08641),
 [Code ![code](https://img.shields.io/github/stars/Embracing/GFPose?style=social&label=Code+Stars)](https://github.com/Embracing/GFPose) 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/gfpose-learning-3d-human-pose-prior-with/multi-hypotheses-3d-human-pose-estimation-on)](https://paperswithcode.com/sota/multi-hypotheses-3d-human-pose-estimation-on?p=gfpose-learning-3d-human-pose-prior-with)
 - A versatile framework to model plausible 3D human poses in gradient fields for various applications.
@@ -343,7 +343,7 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 ***Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023*** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>
 
-[Project](https://sites.google.com/view/aot-rspt), [Paper](https://arxiv.org/pdf/2304.03623.pdf)
+[Project](https://sites.google.com/view/aot-rspt), [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25482), [Arxiv](https://arxiv.org/pdf/2304.03623.pdf)
 - A framework to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
 </div>
 </div>
@@ -358,7 +358,7 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 ***Advances in Neural Information Processing Systems (NeurIPS), 2022***
 
 [Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
-[Paper](https://arxiv.org/pdf/2209.00853.pdf),
+[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf5a019ae9c11b4be88213ce3f85d85c-Abstract-Conference.html), [Arxiv](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
 - A framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
 </div>
@@ -404,7 +404,7 @@ Yuanfei Wang\*, **Fangwei Zhong**\*, Jing Xu, Yizhou Wang
 
 ***International Conference on Learning Representations (ICLR), 2022***
 
-[Paper](https://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/ToM2C?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
+[Paper](https://openreview.net/forum?id=M3tw78MH1Bk), [Arxiv](https://arxiv.org/pdf/2111.09189.pdf), [Code ![code](https://img.shields.io/github/stars/UnrealTracking/ToM2C?style=social&label=Code+Stars)](https://github.com/UnrealTracking/ToM2C) 
 - A Target-oriented Multi-agent Communication and Cooperation mechanism using Theory of Mind. 
 </div>
 </div>
@@ -525,7 +525,7 @@ Wenhan Luo\*, Peng Sun\*, **Fangwei Zhong**\*, Wei Liu, Tong Zhang, Yizhou Wang
 
 ***IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI), 2020***
 
-[Paper](https://arxiv.org/pdf/1808.03405.pdf),
+[Paper](https://ieeexplore.ieee.org/document/8642452/), [Arxiv](https://arxiv.org/pdf/1808.03405.pdf),
 [Code ![code](https://img.shields.io/github/stars/zfw1226/active_tracking_rl?style=social&label=Code+Stars)](https://github.com/zfw1226/active_tracking_rl/),
 [Environment ![code](https://img.shields.io/github/stars/zfw1226/gym-unrealcv?style=social&label=Code+Stars)](https://github.com/zfw1226/gym-unrealcv)
 - Deploy End-to-end active object tracker trained in virtual environment in real-world robot.
