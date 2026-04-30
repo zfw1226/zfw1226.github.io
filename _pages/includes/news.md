@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 One paper about educational social dynamics simulation was accepted by **ICML 2026**, congratulations to Jingzhe, Hengbin and Yongdan.
 - *2026.04*: &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2604.20305) about cross-embodiment active visual tracking was accepted by **IEEE RA-L**, congratulations to Kui.
 - *2026.04*: &nbsp;🎉🎉 Four papers were accepted by ACL 2026 (3 Main + 1 Findings).
 - *2025.12*: &nbsp;🎉🎉 One paper about value-driven agents was accepted by AAMAS 2026 (Oral), congratulations to Jingzhe.
