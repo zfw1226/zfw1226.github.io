@@ -54,9 +54,23 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 Jingzhe Lin\*, Hengbin Yu\*, Yongdan Zeng\*, **Fangwei Zhong&#x2709;**
 
-***International Conference on Machine Learning (ICML), 2026 <span style="color:red">(Oral)</span>***
+***International Conference on Machine Learning (ICML), 2026***
 
-- A multi-agent simulator for studying educational social dynamics, combining a configurable library of education-oriented agents with value-driven behavior grounded in social value and intrinsic motivation.
+- A multi-agent simulator for educational social dynamics with value-driven agents grounded in social value and intrinsic motivation.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ada_tracker.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**
+
+Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, **Fangwei Zhong&#x2709;**
+
+***IEEE Robotics and Automation Letters (RA-L), 2026***
+
+[Paper](https://arxiv.org/abs/2604.20305)
+- An adaptive in-context policy for cross-embodiment active visual tracking, enabling zero-shot generalization via an Embodiment Context Encoder.
 </div>
 </div>
 
@@ -144,19 +158,7 @@ Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ada_tracker.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**
-
-Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, **Fangwei Zhong&#x2709;**
-
-***IEEE Robotics and Automation Letters (RA-L), 2026***
-
-[Paper](https://arxiv.org/abs/2604.20305)
-- An adaptive in-context policy learning framework for cross-embodiment active visual tracking, enabling zero-shot generalization across diverse robot morphologies via an Embodiment Context Encoder.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
