@@ -131,6 +131,20 @@ Long Ma, **Fangwei Zhong&#x2709;**, Yizhou Wang
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE RA-L</div><img src='images/publication/ada_tracker.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AdaTracker: Learning Adaptive In-Context Policy for Cross-Embodiment Active Visual Tracking**
+
+Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, Si Liu, **Fangwei Zhong&#x2709;**
+
+***IEEE Robotics and Automation Letters (RA-L), 2026***
+
+[Paper](https://arxiv.org/abs/2604.20305)
+- An adaptive in-context policy learning framework for cross-embodiment active visual tracking, enabling zero-shot generalization across diverse robot morphologies via an Embodiment Context Encoder.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/publication/unrealzoo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
