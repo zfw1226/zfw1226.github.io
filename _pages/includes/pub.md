@@ -47,6 +47,19 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publication/edumirror.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EduMirror: Modeling Educational Social Dynamics with Value-driven Multi-agent Simulation**
+
+Jingzhe Lin\*, Hengbin Yu\*, Yongdan Zeng\*, **Fangwei Zhong&#x2709;**
+
+***International Conference on Machine Learning (ICML), 2026 <span style="color:red">(Oral)</span>***
+
+- A multi-agent simulator for studying educational social dynamics, combining a configurable library of education-oriented agents with value-driven behavior grounded in social value and intrinsic motivation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/publication/acl2026_desire_alignment.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
