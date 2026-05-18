@@ -81,7 +81,7 @@ Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, 
 
 Yuanfei Wang, Xinju Huang, **Fangwei Zhong**&#x2709;, Yaodong Yang, Yizhou Wang, Yuanpei Chen&#x2709;, Hao Dong&#x2709;
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, <span style="color:red">Oral</span>)***
 
 [Paper](https://arxiv.org/abs/2505.22503)
 - A novel FAMER framework for fast desire alignment with mental reasoning and reflection-based communication in embodied agent-human interaction.
@@ -95,7 +95,7 @@ Yuanfei Wang, Xinju Huang, **Fangwei Zhong**&#x2709;, Yaodong Yang, Yizhou Wang,
 
 Ziheng Zhou, Huacong Tang, Mingjie Bi, Yipeng Kang, Wanying He, Fang Sun, Yizhou Sun, Ying Nian Wu, Demetri Terzopoulos, **Fangwei Zhong**&#x2709;
 
-***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main)***
+***Annual Meeting of the Association for Computational Linguistics (ACL), 2026 (Main, <span style="color:red">Oral</span>)***
 
 [Project](https://moralagentsim.github.io/), [Code](https://github.com/MoralAgentSim/Simulation-Engine), [Paper](https://arxiv.org/abs/2509.17703)
 - An LLM-based agent simulation framework modeling prehistoric hunter-gatherer societies to study moral evolution.
