@@ -56,6 +56,7 @@ Jingzhe Lin\*, Hengbin Yu\*, Yongdan Zeng\*, **Fangwei Zhong&#x2709;**
 
 ***International Conference on Machine Learning (ICML), 2026***
 
+[Project](https://edumirror.net/), [Paper](https://openreview.net/pdf?id=xeIheyQAV8)
 - A multi-agent simulator for educational social dynamics with value-driven agents grounded in social value and intrinsic motivation.
 </div>
 </div>
