@@ -15,20 +15,6 @@ Shuhang Xu, Weijing Deng, Yixuan Zhou, **Fangwei Zhong&#x2709;**
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/hievt.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Hierarchical Instruction-aware Embodied Visual Tracking**
-
-Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
-
-***ArXiv preprint, 2025***
-
-[Project](https://sites.google.com/view/hievt), [Paper](https://arxiv.org/abs/2505.20710)
-- A hierarchical framework that combines LLM-based semantic-spatial goal aligner and RL-based adaptive goal-aligned policy for user-centric embodied visual tracking.
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/publication/adv_grasp.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -72,6 +58,20 @@ Kui Wu, Hao Chen, Jinzhu Han, Haijun Liu, Churan Wang, Yizhou Wang, Zhoujun Li, 
 
 [Paper](https://arxiv.org/abs/2604.20305)
 - An adaptive in-context policy for cross-embodiment active visual tracking, enabling zero-shot generalization via an Embodiment Context Encoder.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FCS</div><img src='images/publication/hievt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Hierarchical Instruction-aware Embodied Visual Tracking**
+
+Kui Wu, Hao Chen, Churan Wang, Fakhri Karray, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
+
+***Frontiers of Computer Science (FCS), 2026***
+
+[Project](https://sites.google.com/view/hievt), [Paper](https://arxiv.org/abs/2505.20710)
+- A hierarchical framework that combines LLM-based semantic-spatial goal aligner and RL-based adaptive goal-aligned policy for user-centric embodied visual tracking.
 </div>
 </div>
 
