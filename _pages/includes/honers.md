@@ -1,4 +1,5 @@
 # 🎖 Selected Honors and Awards
+- *2026.06* Beijing Science and Technology Rising Star Program.
 - *2025.09* ACM SIGAI China Rising Star Award.
 - *2025.07* ACL 2025 SAC Highlight Award (for CoMet).
 - *2023.10* Tencent Rhino-Bird Outstanding Mentor Award.
