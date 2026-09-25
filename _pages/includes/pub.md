@@ -40,7 +40,7 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 Kui Wu, Beiyu Guo, Hao Chen, Shuhang Xu, Yuling Li, Yongdan Zeng, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
 
-***Advances in Neural Information Processing Systems (NeurIPS), 2026 (ED Track)***
+***Advances in Neural Information Processing Systems (NeurIPS), 2026 (Evaluations and Datasets Track)***
 
 [Paper](https://arxiv.org/abs/2606.01848), [Code](https://github.com/UnrealZoo/RescueBench)
 - A photo-realistic diagnostic benchmark for multi-stage search-and-rescue, exposing cascading failures in autonomous exploration and spatial memory.
