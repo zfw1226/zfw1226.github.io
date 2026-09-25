@@ -1,4 +1,5 @@
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 [RescueBench](https://arxiv.org/abs/2606.01848), a photo-realistic benchmark for embodied search-and-rescue, was accepted by **NeurIPS 2026 (ED Track)**, congratulations to Kui, Beiyu, Hao, Shuhang, Yuling and Yongdan.
 - *2026.06*: &nbsp;🎉🎉 Honored to be selected for the [2026 Beijing Science and Technology Rising Star Program](https://kw.beijing.gov.cn/zwgk/tzgg/202606/t20260612_4698402.html).
 - *2026.05*: &nbsp;🎉🎉 One paper about educational social dynamics simulation was accepted by **ICML 2026**, congratulations to Jingzhe, Hengbin and Yongdan.
 - *2026.04*: &nbsp;🎉🎉 One [paper](https://arxiv.org/abs/2604.20305) about cross-embodiment active visual tracking was accepted by **IEEE RA-L**, congratulations to Kui.

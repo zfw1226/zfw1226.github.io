@@ -33,6 +33,20 @@ Tianhao Wu\*, **Fangwei Zhong**\*, Yiran Geng, Hongchen Wang, Yongjian Zhu, Yizh
 
 \* : co-first author, &#x2709; : corresponding author
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/publication/rescuebench.webp' alt="RescueBench benchmark overview" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RescueBench: Can Embodied Agents Save Lives in the Wild?**
+
+Kui Wu, Beiyu Guo, Hao Chen, Shuhang Xu, Yuling Li, Yongdan Zeng, Zhoujun Li, Yizhou Wang, **Fangwei Zhong&#x2709;**
+
+***Advances in Neural Information Processing Systems (NeurIPS), 2026 (ED Track)***
+
+[Paper](https://arxiv.org/abs/2606.01848), [Code](https://github.com/UnrealZoo/RescueBench)
+- A photo-realistic diagnostic benchmark for multi-stage search-and-rescue, exposing cascading failures in autonomous exploration and spatial memory.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/publication/edumirror.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
