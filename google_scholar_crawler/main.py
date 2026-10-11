@@ -1,4 +1,8 @@
 from scholarly import scholarly
+import logging
+
+logging.basicConfig(level=logging.INFO, format='%(levelname)s %(name)s: %(message)s')
+scholarly.set_logger(True)
 import jsonpickle
 import json
 from datetime import datetime

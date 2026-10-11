@@ -39,7 +39,23 @@ jobs:
 
       - name: Fetch Google Scholar data
         working-directory: google_scholar_crawler
-        run: python main.py
+        run: |
+          python -u - <<'PY'
+          import os
+          import requests
+          for host in ('scholar.google.com', 'scholar.google.com.hk'):
+              try:
+                  response = requests.get(
+                      'https://' + host + '/citations',
+                      params={'user': os.environ['GOOGLE_SCHOLAR_ID'], 'hl': 'en', 'pagesize': 100},
+                      timeout=20,
+                  )
+                  print(host, 'HTTP', response.status_code,
+                        'profile_table=', 'gsc_rsb_st' in response.text, flush=True)
+              except requests.RequestException as exc:
+                  print(host, type(exc).__name__, flush=True)
+          PY
+          timeout 120s python -u main.py
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
