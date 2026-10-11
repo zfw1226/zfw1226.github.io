@@ -9,20 +9,59 @@ on:
 permissions:
   contents: write
 
-# Serialize updates to the data branch; never overwrite another run's commit.
+env:
+  TZ: UTC
+
 concurrency:
   group: google-scholar-stats
   cancel-in-progress: false
 
 jobs:
-  build:
-    runs-on: ubuntu-24.04
-    timeout-minutes: 10
+  fetch:
+    name: Fetch attempt ${{ matrix.attempt }}
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 5
+    # Different runner pools reduce the chance of reusing a blocked network.
+    # The final job reports failure unless a real fetch succeeded.
+    continue-on-error: true
+    strategy:
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        include:
+          - attempt: 1
+            os: ubuntu-24.04
+          - attempt: 2
+            os: macos-15
+          - attempt: 3
+            os: ubuntu-24.04-arm
     steps:
       - name: Check out site
         uses: actions/checkout@v7
 
+      - name: Check out citation data branch
+        uses: actions/checkout@v7
+        with:
+          ref: google-scholar-stats
+          path: citation-data
+
+      - name: Check whether this run already fetched data
+        id: check
+        run: |
+          python3 - <<'PY'
+          import json
+          import os
+          from pathlib import Path
+          data = json.loads(Path('citation-data/gs_data.json').read_text())
+          needed = (data.get('sync_run_id') != os.environ['GITHUB_RUN_ID'] or
+                    data.get('sync_run_attempt') != os.environ.get('GITHUB_RUN_ATTEMPT', '1'))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as output:
+              output.write('needed=' + str(needed).lower() + '\n')
+          print('Fetch needed:', needed)
+          PY
+
       - name: Set up Python
+        if: steps.check.outputs.needed == 'true'
         uses: actions/setup-python@v7
         with:
           python-version: '3.11'
@@ -30,43 +69,38 @@ jobs:
           cache-dependency-path: google_scholar_crawler/requirements.txt
 
       - name: Install crawler dependencies
+        if: steps.check.outputs.needed == 'true'
         run: python -m pip install -r google_scholar_crawler/requirements.txt
 
-      - name: Check dependency compatibility
+      - name: Check compatibility and sync validation
+        if: steps.check.outputs.needed == 'true'
         run: |
           python -m unittest discover -s google_scholar_crawler/tests -v
           node google_scholar_crawler/tests/test_frontend.cjs
 
       - name: Fetch Google Scholar data
+        if: steps.check.outputs.needed == 'true'
         working-directory: google_scholar_crawler
         run: |
           python -u - <<'PY'
-          import os
-          import requests
-          for host in ('scholar.google.com', 'scholar.google.com.hk'):
-              try:
-                  response = requests.get(
-                      'https://' + host + '/citations',
-                      params={'user': os.environ['GOOGLE_SCHOLAR_ID'], 'hl': 'en', 'pagesize': 100},
-                      timeout=20,
-                  )
-                  print(host, 'HTTP', response.status_code,
-                        'profile_table=', 'gsc_rsb_st' in response.text, flush=True)
-              except requests.RequestException as exc:
-                  print(host, type(exc).__name__, flush=True)
+          import subprocess
+          import sys
+          try:
+              result = subprocess.run([sys.executable, '-u', 'main.py'], timeout=120)
+          except subprocess.TimeoutExpired:
+              print('Google Scholar fetch exceeded 120 seconds', file=sys.stderr)
+              sys.exit(124)
+          sys.exit(result.returncode)
           PY
-          timeout 120s python -u main.py
         env:
           GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
 
-      # Only publish after a successful crawl. Failed crawls keep the previous data.
-      - name: Check out citation data branch
-        uses: actions/checkout@v7
-        with:
-          ref: google-scholar-stats
-          path: citation-data
+      - name: Validate fetched data
+        if: steps.check.outputs.needed == 'true'
+        run: python google_scholar_crawler/verify_sync.py google_scholar_crawler/results
 
       - name: Publish citation data
+        if: steps.check.outputs.needed == 'true'
         shell: bash
         run: |
           cp google_scholar_crawler/results/gs_data.json citation-data/gs_data.json
@@ -81,6 +115,26 @@ jobs:
           fi
           git commit -m "Updated Citation Data"
           git push origin HEAD:google-scholar-stats
+
+  verify:
+    name: Verify fresh data and refresh CDN
+    needs: fetch
+    if: always()
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v7
+
+      - name: Check out latest citation data
+        uses: actions/checkout@v7
+        with:
+          ref: google-scholar-stats
+          path: citation-data
+
+      # The run marker prevents an old cached count from making failed fetches green.
+      - name: Verify a real fetch succeeded in this run
+        run: python3 google_scholar_crawler/verify_sync.py citation-data
 
       - name: Refresh citation-data CDN cache
         env:
