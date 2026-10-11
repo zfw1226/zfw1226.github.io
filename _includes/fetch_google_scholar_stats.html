@@ -5,7 +5,7 @@
         {% else %}
         var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/';
         {% endif %}
-        // Bypass the browser's week-long CDN cache; the daily workflow purges CDN edges.
+        // Bypass the browser's week-long CDN cache; the scheduled workflow purges CDN edges.
         $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json?ts=" + Date.now(), function (data) {
             if (!data || typeof data !== 'object') return;
             var totalCitation = data.citedby;
