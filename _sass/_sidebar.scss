@@ -175,6 +175,12 @@
   }
 }
 
+.author__urls .scholar-citation-count:not([hidden]) {
+  display: block;
+  margin-left: 1.5em;
+  font-size: 0.85em;
+}
+
 .author__urls {
   display: none;
   position: absolute;

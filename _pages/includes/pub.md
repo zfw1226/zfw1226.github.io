@@ -385,7 +385,7 @@ Hai Ci\*, Mickel Liu\*, Xuehai Pan\*, **Fangwei Zhong&#x2709;**, Yizhou Wang
 
 **Fangwei Zhong**\*,  Xiao Bi\*,  Yudi Zhang,  Wei Zhang, Yizhou Wang
 
-***Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023*** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:8k81kl-MbHgC'></span></strong>
+***Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI), 2023*** <span style="color:red">(Oral)</span><strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:KlAtU1dfN6UC'></span></strong>
 
 [Project](https://sites.google.com/view/aot-rspt), [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25482), [Arxiv](https://arxiv.org/pdf/2304.03623.pdf)
 - A framework to form a structure-aware motion representation by Reconstructing Surroundings and Predicting the target Trajectory.
@@ -401,7 +401,7 @@ Mingdong Wu\*, **Fangwei Zhong**\*, Yulong Xia, Hao Dong
 
 ***Advances in Neural Information Processing Systems (NeurIPS), 2022***
 
-[Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:0EnyYjriUFMC'></span></strong>,
+[Project](https://sites.google.com/view/targf) <strong><span class='show_paper_citations' data='ejDz1bYAAAAJ:3fE2CSJIrl8C'></span></strong>,
 [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/cf5a019ae9c11b4be88213ce3f85d85c-Abstract-Conference.html), [Arxiv](https://arxiv.org/pdf/2209.00853.pdf),
 [Code](https://github.com/AaronAnima/TarGF) 
 - A framework based on a target gradient field trained by score-matching to tackle object rearrangement without explicit goal specification.
